@@ -1,17 +1,18 @@
 # staff-portal
 
-# for client
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
 # Run Staff portal
   go to backend ### `npm install`
   then
   go to client ### `npm install`
   
   then start both server by ### `npm start` for client and ### `npm run dev` for backend
+
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
