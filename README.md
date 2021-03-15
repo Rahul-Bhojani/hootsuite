@@ -1,11 +1,15 @@
 # staff-portal
 
 # Run Staff portal
-  go to backend ### `npm install`
+  go to backend 
+  ### `npm install`
   then
-  go to client ### `npm install`
+  go to client 
+  ### `npm install`
   
-  then start both server by ### `npm start` for client and ### `npm run dev` for backend
+  then start both server by
+  ### `npm start` for client and 
+  ### `npm run dev` for backend
 
 
 # Getting Started with Create React App
