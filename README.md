@@ -1,6 +1,6 @@
 # staff-portal
 
-# Run Staff portal
+### Run Staff portal
   go to backend 
   ### `npm install`
   then
