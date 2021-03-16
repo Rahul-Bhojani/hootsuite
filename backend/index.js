@@ -19,6 +19,8 @@ app.use(cors({
 }))
 
 app.use(require('./routers/user'));
+app.use(require('./routers/task'));
+
 
 
 
