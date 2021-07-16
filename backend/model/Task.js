@@ -6,6 +6,11 @@ const taskSchema = new mongoose.Schema({
         type: mongoose.Schema.Types.ObjectId,
         ref: 'user'
     },
+    assignTo: {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: 'user',
+        default: null
+    },
     taskname: {
         type: String, required: true,
         minLength: 3,
@@ -16,8 +21,13 @@ const taskSchema = new mongoose.Schema({
         minLength: 3,
         lowercase: true
     },
+    technology: {
+        type: String,
+        minLength: 3,
+        lowercase: true
+    },
     duration: {
-        type: Number, required: true,
+        type: String, required: true,
     }
 
 }, { timestamps: { updatedAt: true } })

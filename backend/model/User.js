@@ -59,6 +59,15 @@ const userSchema = new mongoose.Schema({
     birthdate: {
         type: Date,
         default: null
+    },
+    task: {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: 'task',
+        default: null
+    },
+    role: {
+        type: Number,
+        default: 3
     }
 
 }, { timestamps: { updatedAt: false } })
@@ -67,3 +76,4 @@ const userSchema = new mongoose.Schema({
 const User = mongoose.model('User', userSchema)
 
 module.exports = User
+
