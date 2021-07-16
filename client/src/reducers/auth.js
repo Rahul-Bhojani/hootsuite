@@ -1,4 +1,4 @@
-import * as types from '../actions/types'
+import * as types from '../actions/types';
 
 const initialState = {
     token: localStorage.getItem('token'),
@@ -10,14 +10,7 @@ const auth = (state = initialState, action) => {
     const { type, payload } = action;
     switch (type) {
 
-        case types.USER_LOADED:
-            return {
-                ...state,
-                isAuthenticated: true,
-                loading: false,
-                user: payload
-            }
-
+        //set token if login sucess
         case types.LOGIN_SUCCESS:
             localStorage.setItem('token', payload.token)
             return {
@@ -27,6 +20,16 @@ const auth = (state = initialState, action) => {
                 loading: false
             }
 
+        //set current authnticated user data
+        case types.USER_LOADED:
+            return {
+                ...state,
+                isAuthenticated: true,
+                loading: false,
+                user: payload
+            }
+
+        //remove token from localStorage and handle auth and login fail error also logout user
         case types.AUTH_ERROR:
         case types.LOGIN_FAIL:
         case types.LOGOUT:
@@ -38,6 +41,7 @@ const auth = (state = initialState, action) => {
                 loading: false,
                 user: null
             };
+
         default:
             return state;
     }

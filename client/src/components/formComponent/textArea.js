@@ -1,15 +1,14 @@
 import React from 'react';
 
 const TextArea = (props) => {
-
     return (
         <div>
-            <textarea className="form-control form-control-user"
+            <textarea className="form-control form-control-user bg-white"
                 name={props.name}
-
                 placeholder={props.placeholder}
-                value={props.value ? props.value : ''}
+                defaultValue={props.value && props.value}
                 onChange={props.handleChange}
+                disabled={props.disabled ? true : false}
                 required
             />
         </div>

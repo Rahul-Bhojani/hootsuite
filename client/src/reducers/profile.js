@@ -4,16 +4,26 @@ const initialState = {
     profile: null,
     profiles: [],
     loading: true,
-    error: {}
+    error: {},
+    count: null
 }
 
 const profile = (state = initialState, action) => {
     const { type, payload } = action;
 
     switch (type) {
+        case types.GET_COUNT:
+            return {
+                ...state, count: payload, loading: false
+            }
         case types.GET_PROFILE:
+            console.log(payload);
             return {
                 ...state, profile: payload, loading: false
+            }
+        case types.CLEAR_COUNT:
+            return {
+                ...state, count: null, loading: false
             }
         case types.GET_PROFILES:
             return {
@@ -25,7 +35,7 @@ const profile = (state = initialState, action) => {
             }
         case types.CLEAR_PROFILE:
             return {
-                ...state, profile: null, loading: false, proiles: []
+                ...state, profile: null, loading: false, profiles: [], count: null
             }
         default:
             return state
