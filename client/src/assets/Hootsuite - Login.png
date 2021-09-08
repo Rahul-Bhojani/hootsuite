@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<!-- saved from url=(0027)https://hootsuite.com/login -->
+<html class="static" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+      <meta http-equiv="X-UA-Compatible" content="ie=edge,chrome=1">
+  
+  <title>Hootsuite - Login</title>
+
+  <meta name="description" content="Hootsuite - Social Media Management. With Hootsuite, you can monitor keywords, manage multiple Twitter, Facebook, LinkedIn, and Foursquare profiles, schedule messages, and measure your success.">
+  <meta name="apple-itunes-app" content="app-id=341249709">
+  <meta name="google-play-app" content="app-id=com.hootsuite.droid.full">
+  <meta name="msapplication-tap-highlight" content="no">
+
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  
+  
+    <link href="https://d3uq0lxah0gw68.cloudfront.net/" rel="dns-prefetch">
+  <link href="https://d2l6uygi1pgnys.cloudfront.net/" rel="dns-prefetch">
+  <link href="https://d12qyuqyvqjkw5.cloudfront.net/" rel="dns-prefetch">
+
+  <link rel="apple-touch-icon-precomposed" href="https://d12qyuqyvqjkw5.cloudfront.net/v2/images/apple-touch-icon.ed56b3ea.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://d12qyuqyvqjkw5.cloudfront.net/v2/images/apple-touch-icon_72.a439d8d2.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://d2l6uygi1pgnys.cloudfront.net/v2/images/apple-touch-icon@2x.5959eb75.png">
+  <meta name="application-name" content="Hootsuite">
+  <meta name="application-url" content="https://hootsuite.com">
+  <link rel="shortcut icon" href="https://d3uq0lxah0gw68.cloudfront.net/v2/images/favicon.95722e25.ico">
+
+  <link href="./Hootsuite - Login_files/css" rel="stylesheet" type="text/css">
+  <link href="./Hootsuite - Login_files/css2" rel="stylesheet">
+
+  <link href="./Hootsuite - Login_files/login.3a1fcf19.gz.css" rel="stylesheet">
+              <script src="./Hootsuite - Login_files/dc.js"></script><script src="./Hootsuite - Login_files/rules-p-m6c2QkbgyNB71.js" async=""></script><script async="" src="./Hootsuite - Login_files/main.89cd5bf4.js"></script><script type="text/javascript" async="" src="./Hootsuite - Login_files/analytics.js"></script><script src="./Hootsuite - Login_files/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="./Hootsuite - Login_files/rtp.js"></script><script async="" src="./Hootsuite - Login_files/core.js"></script><script async="" src="./Hootsuite - Login_files/analytics.js"></script><script src="./Hootsuite - Login_files/611911702222239" async=""></script><script async="" src="./Hootsuite - Login_files/fbevents.js"></script><script type="text/javascript" async="" src="./Hootsuite - Login_files/bat.js"></script><script type="text/javascript" async="" src="./Hootsuite - Login_files/insight.min.js"></script><script type="text/javascript" async="" src="./Hootsuite - Login_files/uwt.js"></script><script type="text/javascript" async="" src="./Hootsuite - Login_files/f.txt"></script><script async="" src="./Hootsuite - Login_files/gtm.js"></script><script>
+        var _gaAccountId = 'UA-17737250-1';
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', _gaAccountId]);
+        _gaq.push(['_setDomainName', 'hootsuite.com']);
+
+                
+        _gaq.push(['_trackPageview']);
+
+                
+        
+        try{
+            (function(w,d,s) {
+                function go(){
+                    var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+                    n.src='//stats.g.doubleclick.net/dc.js';
+                    if (e && e.parentNode) {
+                        e.parentNode.insertBefore(n, e);
+                    } else {
+                        e=d.getElementsByTagName('head')[0];
+                        if (e) {
+                            e.appendChild(n);
+                        }
+                    }
+                }
+                if (w.addEventListener) {
+                    w.addEventListener("load", go, false);
+                } else if (w.attachEvent) {
+                    w.attachEvent("onload",go);
+                }
+            })(window, document, "script");
+
+            // doubleclick checker
+            window.onload = function () {
+                setTimeout(function(){
+                    if(typeof _gat === "undefined"){
+                        (function(){
+                            var ga = document.createElement('script');
+                            ga.type = 'text/javascript';
+                            ga.async = true;
+                            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                        })();
+                        _gaq.push(['_trackEvent','GA Remarketing Tag','DC Script','Failed',0,true])
+                    }
+                }, 1000);
+            }
+        }
+        catch(err){
+            //Do nothing
+        }
+    </script>
+            <script>
+    window.dataLayer = window.dataLayer || [];
+
+  
+  (function(w,d,s,l,i){
+    w[l]=w[l]||[];
+    w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer'?'&l='+l:'';
+    j.async = true;
+    j.src = '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NSJRPB');
+  </script>
+  <script src="./Hootsuite - Login_files/25005362.js" type="text/javascript" async=""></script><link type="text/css" href="./Hootsuite - Login_files/jquery-ui-insightera-custom-1.9.6.css" rel="stylesheet"><script src="./Hootsuite - Login_files/f(1).txt"></script><meta http-equiv="origin-trial" content="A7jJ/K14TswrMYv7k08eMRw2LMhCoHtdZIlR4bsG9p1tHmBXAgq7ZMLdccBMn+RzwQkrXZM0RPFAPiVZJKofAQsAAACHeyJvcmlnaW4iOiJodHRwczovL3d3dy5waW50ZXJlc3QuY29tOjQ0MyIsImZlYXR1cmUiOiJDb252ZXJzaW9uTWVhc3VyZW1lbnQiLCJleHBpcnkiOjE2MzE2NjM5OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+<body data-boot="login" data-new-gr-c-s-check-loaded="14.1027.0" data-gr-ext-installed="" data-gr-ext-disabled="forever">
+  	
+
+
+<script>
+  	var hs = hs || {};
+	hs.boot = {};
+	hs.ba = {};
+	hs.timers = {};
+	hs.prefs = {};
+  hs.c = {}; // constants
+	hs.c.rootUrl = "https://hootsuite.com";
+	hs.c.rootCmsUrl = "https://www.hootsuite.com";
+	hs.c.staticVersion = "8365-d87d4d9";
+	hs.c.jsver = "8365-d87d4d9";
+  hs.isReportJsErrors = false;
+  hs.prefs.language = '';
+  hs.timezoneOffset=null;
+  hs.timezoneName=''.replace(/_/g, ' ');
+  hs.languagePack = {};
+  hs.language = 'en';
+  hs.gZipVersionOrNot = "gz.";
+  hs.reCaptchaPublicKey = "6LdO19ISAAAAABYG5d0FtWzQTExdHkC-R1TJ5Ipr";
+  hs.reCaptchaV2PublicKey = "6LfeV8cZAAAAAC0ffLnQAmjBbg354KQ-QUHXIQHN";
+	hs.hasDismissedNewComposeGTMBanner= false;
+
+  hs.features = [{"c":"ADS_707_ACTIVATE_TWITTER","r":"boolean","v":1},{"c":"AMP_2737_ADD_AMPLIFY_ASYNC_APP","r":"boolean","v":1},{"c":"AMP_3447_INSTA_FA","r":"boolean","v":1},{"c":"ANL_11208_FLAVIUS_SENTRY_UPGRADE","r":"boolean","v":1},{"c":"ANL_2492_FLAVIUS_ABORT_ANALYTICS_BUNDLE_FETCH","r":"boolean","v":1},{"c":"ANL_6891_ANALYTICS_TTI_SLO","r":"boolean","v":1},{"c":"APP_DIR_AJAX_QUEUE_MANAGER","r":"boolean","v":1},{"c":"APP_SDK_ASSIGNMENT","r":"boolean","v":1},{"c":"APP_SEND_COMMENT_TO_APP","r":"boolean","v":1},{"c":"BILLING-3322-feature-filter","r":"passthrough","v":"ADDITIONAL_SOCIAL_NETWORKS,SEATS,BULK_SCHEDULE,HOOTSUITE_IMPACT,HOOTSUITE_INSIGHTS,HSA_TAGS,MESSAGE_TAGGING,RSS,TEAM_METRICS"},{"c":"BILLING_1619_IE9_HIDE_CONSOLE_MESSAGES","r":"boolean","v":1},{"c":"BILLING_3188_ENABLE_ACCOUNT_MANAGEMENT","r":"boolean","v":1},{"c":"BILLING_3188_ENABLE_ACCOUNT_MANAGEMENT_PRO","r":"boolean","v":1},{"c":"BILLING_3384_ACCT_MGMT_YOLO_REFACTOR","r":"boolean","v":1},{"c":"BILLING_3575_DELETE_ACCOUNT","r":"boolean","v":1},{"c":"BILLING_3975_MAINTENANCE_INTERVALS","r":"passthrough","v":"[{\"start\": \"2021-06-12T00:57:00-0700\", \"end\": \"2021-06-12T03:03:00-0700\"}]"},{"c":"BILLING_4166_MOBILE_BANNER","r":"boolean","v":1},{"c":"BILLING_4208_DYNAMIC_FEATURE_VALUES","r":"boolean","v":1},{"c":"BILLING_4277_TIERED_ADDONS_PRICE_UPDATE","r":"boolean","v":1},{"c":"BILLING_4277_TIERED_ADDONS_PRICE_UPDATE_JULY","r":"boolean","v":1},{"c":"BILLING_4277_TIERED_ADDONS_PRICE_UPDATE_JUNE","r":"boolean","v":1},{"c":"CFE_579_ML_DESKTOP_IMPLEMENTATION","r":"boolean","v":1},{"c":"CFE_859_CHECK_EXPIRE_DATE","r":"boolean","v":1},{"c":"CFE_859_DISABLE_PROFILE_SELECTOR","r":"boolean","v":1},{"c":"CFE_914_DISABLE_LOCAL_SENTRY","r":"boolean","v":1},{"c":"CFE_963_LANGUAGE_FILTER","r":"boolean","v":1},{"c":"CUXF1753_DA_COMPOSE_BOX_OPEN_IN_IE","r":"boolean","v":1},{"c":"CUXF_1009_YOUTUBE_CHANNEL","r":"boolean","v":1},{"c":"CUXF_1649_WALKTHROUGH_DEEPLINK","r":"boolean","v":1},{"c":"CUXF_1857_TRACKING_CLOSE_FIX","r":"boolean","v":1},{"c":"CUXF_1930_TWITTER_VIDEO_PROMO_MP4","r":"passthrough","v":"{\"type\":\"video\",\"url\":\"https:\/\/hootsuite-video.s3.amazonaws.com\/production\/6591006_c254af40322defd8604ced822432b0c397d42551.mp4\",\"bytes\":12642142,\"thumbnailUrl\":null,\"mimeType\":\"video\/mp4\",\"shortUrl\":\"https:\/\/hootsuite-video.s3.amazonaws.com\/production\/6591006_c254af40322defd8604ced822432b0c397d42551.mp4\",\"videoCodec\":\"h264\",\"audioCodec\":\"aac\",\"displayAspectRatio\":\"16:9\",\"height\":720,\"width\":1280,\"durationInSec\":29.487792,\"audioChannels\":2,\"frameRate\":23.98,\"userMetadata\":{\"title\":null,\"category\":\"ENTERTAINMENT\"}}"},{"c":"CUXF_2254_PRO_SOCIAL_COACH","r":"boolean","v":1},{"c":"CUXF_705_SET_REAUTH_FLAG_ON_ALL_SOCIAL_NETWORKS","r":"boolean","v":1},{"c":"CUXF_828_INSTAGRAM_PAIR_AUTO_ADVANCE","r":"boolean","v":1},{"c":"CUXF_INCREASE_TOAST_TIME","r":"boolean","v":1},{"c":"CUXF_STREAM_PREVIEW","r":"boolean","v":1},{"c":"DATA_747_ERROR_FOR_LOGGING_TOO_MUCH_DATA","r":"boolean","v":1},{"c":"DATA_982_KINESIS_FIREFOX_AUTH_BUGFIX","r":"boolean","v":1},{"c":"DATA_PORTABILITY_ARCHIVING","r":"boolean","v":1},{"c":"DEVP_1050_REFACTOR_APPS_BY_COMPONENT_TYPE","r":"boolean","v":1},{"c":"DEVP_1506_MODIFY_SENDTOAPP_EVENT_FOR_APP_IDS","r":"passthrough","v":"100327,100545,100639"},{"c":"DEVP_175_ENABLE_LINKEDIN_SEND_TO_APP_LIST","r":"passthrough","v":"4509"},{"c":"DEVP_183_DISABLE_SEND_TO_APPS_LIST","r":"passthrough","v":"3334,5115,1347,3367,1291,1502,1877,3319,3118,3908,1884,1700,7308,1040,4514,7696"},{"c":"DISABLE_FACEBOOK_PROFILES_POSTING","r":"boolean","v":1},{"c":"DOG_1261_BOOST_EDIT_FB_CAMPAIGN","r":"boolean","v":1},{"c":"DOG_1349_BOOST_COMPOSER_TOAST","r":"boolean","v":1},{"c":"DOG_1713_USER_EDUCATION","r":"boolean","v":1},{"c":"DOG_1935_SELECT_AUDIENCE_WIDGET","r":"boolean","v":1},{"c":"FPLAT_579_USE_PUBLIC_URL","r":"boolean","v":1},{"c":"FPLAT_622_MEASURE_BUNDLE_TIME","r":"boolean","v":1},{"c":"FPLAT_713_ASYNC_LOADER_V2","r":"boolean","v":1},{"c":"FPLAT_792_EAGER_HS_APP_URLS","r":"boolean","v":1},{"c":"GLOB_1042_INTERCOM_IN_DASHBOARD","r":"boolean","v":1},{"c":"GLOB_1070_UI_REFRESH","r":"boolean","v":1},{"c":"GLOB_1151_LANGUAGE_UPDATES","r":"boolean","v":1},{"c":"GLOB_1157_STREAM_SIZING","r":"boolean","v":1},{"c":"GLOB_1168_USER_ED_URL","r":"boolean","v":1},{"c":"GLOB_476_ACCOUNT_MENU_UPGRADE","r":"boolean","v":1},{"c":"GLOB_514_NEW_ANALYTICS_ACCOUNT_MENU","r":"boolean","v":1},{"c":"HIDE_FACEBOOK_PROFILES_WEBFEED_SN_PICKER","r":"boolean","v":1},{"c":"HOOTLET_SOCIAL_AD_VIEW","r":"boolean","v":1},{"c":"HS_10480_ANALYTICS_CURRENCY_CHECK","r":"boolean","v":1},{"c":"IDT_206_MOVE_TEAM_DELETE_CONFIRMATION_CLOSER_TO_CALL","r":"boolean","v":1},{"c":"IDT_78_SN_AUTH_MULTI_SELECT_SEARCH_BOX","r":"boolean","v":1},{"c":"JQUERY_ADDRESS_PERF_IMPROVEMENT","r":"boolean","v":1},{"c":"MOB-2462_RENAME_SEARCH_TAB_TITLE","r":"boolean","v":1},{"c":"MOB_2094_FIX_WINDOWS_PHOTO_UPLOAD","r":"boolean","v":1},{"c":"MOB_2320_FB_COMMENT_DELETE_ACTIONS","r":"boolean","v":1},{"c":"MOB_2320_FB_POST_DELETE_ACTIONS","r":"boolean","v":1},{"c":"MOB_2394_CREATE_TAB_WHEN_ADD_PROFILE_ON_MOBILE_WEB","r":"boolean","v":1},{"c":"MOB_2508_USE_TWITTER_TEXT_LIB_TO_COUNT_TWEET_CHARACTERS","r":"boolean","v":1},{"c":"MOB_2716_UPDATE_TITLE_FOR_EXISTING_SEARCH_STREAM","r":"boolean","v":1},{"c":"NGE-17657-MIGRATE-IGB-HASHTAG-BUILDER","r":"boolean","v":1},{"c":"NGETP_27_DISABLE_QUOTED_TWEETS","r":"boolean","v":1},{"c":"NGE_16355_AUTOMATION_MESSAGE_TYPE_IN_INBOX","r":"boolean","v":1},{"c":"NGE_16413_FB_TAGGED_MISSING_ATTACHMENTS_COMMENTS_BANNER","r":"boolean","v":1},{"c":"NGE_16606_SHOW_RELATED_MESSAGES","r":"boolean","v":1},{"c":"NGE_16880_SENTRY_DASHBOARD_INTEGRATION","r":"boolean","v":1},{"c":"NGE_1694_YOUTUBE_THUMBNAIL","r":"boolean","v":1},{"c":"NGE_16964_INFINITELY_NESTED_LAYOUT","r":"boolean","v":1},{"c":"NGE_16979_MIGRATE_TWITTER_LIST_OPTIONS","r":"boolean","v":1},{"c":"NGE_16987_COLUMN_SLIDERS","r":"boolean","v":1},{"c":"NGE_17035_TWITTER_SEARCH_BUILDER","r":"boolean","v":1},{"c":"NGE_17037_REACT_YOUTUBE_SEARCH_BUILDER","r":"boolean","v":1},{"c":"NGE_17038_REACT_YOUTUBE_PLAYLIST_BUILDER","r":"boolean","v":1},{"c":"NGE_17040_REACT_ADD_STREAM","r":"boolean","v":1},{"c":"NGE_17049_REACT_STREAM_HEADER","r":"boolean","v":1},{"c":"NGE_17050_REACT_TWITTER_QUICK_SEARCH","r":"boolean","v":1},{"c":"NGE_17051_SIDEBAR","r":"boolean","v":1},{"c":"NGE_17052_REACT_MASTHEAD","r":"boolean","v":1},{"c":"NGE_17054_RELATIONSHIP_POPUP","r":"boolean","v":1},{"c":"NGE_17060_STREAMS_MIGRATION_EMPTY_BOARD_VIEW","r":"boolean","v":1},{"c":"NGE_17061_REACT_ADD_STREAM_TWITTER_SEARCH","r":"boolean","v":1},{"c":"NGE_17062_TWITTER_KEYWORD","r":"boolean","v":1},{"c":"NGE_17063_REACT_ADD_STREAM_TWITTER_LIST","r":"boolean","v":1},{"c":"NGE_17064_IGB_HASHTAG_POPUP_BUILDER","r":"boolean","v":1},{"c":"NGE_17065_YOUTUBE_SEARCH_POPUP_BUILDER","r":"boolean","v":1},{"c":"NGE_17066_YOUTUBE_PLAYLIST_POPUP_BUILDER","r":"boolean","v":1},{"c":"NGE_17323_SPARKCENTRAL_NAVIGATION_ENABLE","r":"boolean","v":1},{"c":"NGE_17664_USER_INFO_POPUP_PROFILE_MIGRATION","r":"boolean","v":1},{"c":"NGE_17911_STREAMS_BOOKMARKS_EXPERIMENT","r":"boolean","v":1},{"c":"NGE_17948_SHARED_WITH_TEAMS","r":"boolean","v":1},{"c":"NGE_17949_ADD_STREAM_APPS","r":"boolean","v":1},{"c":"NGE_17950_FEED_POPUP_BUILDER","r":"boolean","v":1},{"c":"NGE_4371_EXPLICIT_RATE_LIMIT_ERROR_FOR_MENTION_STREAM","r":"boolean","v":1},{"c":"NO-MULTISELECTOR-PROXIFY","r":"boolean","v":1},{"c":"PGR_104_NEW_USER_STREAMS","r":"passthrough","v":"2019-08-23 9:00:00"},{"c":"PGR_412_STREAM_BUILDER_ALLOW_NEW_OVERLAYS","r":"boolean","v":1},{"c":"PGR_529_NEW_ACCOUNT_SETUP","r":"boolean","v":1},{"c":"PGR_537_ENABLE_PUBLISHER_FIRST_RUN_ONBOARDING","r":"boolean","v":1},{"c":"PGR_552_IMPLEMENT_NEW_CYOA_FLOW","r":"boolean","v":1},{"c":"PGR_561_REFRESH_STREAMS_ON_MESSAGE_SUCCESS","r":"boolean","v":1},{"c":"PGR_583_SCHEDULED_STREAM_EMPTY_CTA","r":"boolean","v":1},{"c":"PGR_624_ACTION_HISTORY_STORE","r":"boolean","v":1},{"c":"PGR_647_INSTAGRAM_AUTH_EXPERIMENT","r":"boolean","v":1},{"c":"PGR_683_PREPOPULATE_STREAMS","r":"boolean","v":1},{"c":"PGR_688_FIRST_POST_POPOVER","r":"boolean","v":1},{"c":"PGR_694_STEAMS_BUTTONS_HOVER_STATE","r":"boolean","v":1},{"c":"PGR_732_COMPOSER_IG_AUTH_EXPERIMENT","r":"boolean","v":1},{"c":"PGR_764_SEGMENTATION","r":"boolean","v":1},{"c":"PGR_786_COMPOSER_PRESELECT_PROFILES","r":"boolean","v":1},{"c":"PGR_836_REMOVE_IG_PERSONAL_EXPERIMENT","r":"boolean","v":1},{"c":"PGR_883_GETTING_STARTED_EXPERIMENT_V3","r":"boolean","v":1},{"c":"PGR_904_COPY_FOR_SUGGESTED_TIMES_TO_POST","r":"boolean","v":1},{"c":"PGR_906_HOME_PAGE","r":"boolean","v":1},{"c":"PHO_304_FIX_IDENTIFYING_FACEBOOK_PRIVATE_MESSAGES","r":"boolean","v":1},{"c":"PLAT_10132_SN_RENAME","r":"boolean","v":1},{"c":"PLAT_7169_INBOUND_AUTOMATION_MASTER","r":"boolean","v":1},{"c":"PLAT_7778_VIDEO_ATTACHMENT_FROM_APP","r":"boolean","v":1},{"c":"PLAT_PUBLISHER_CONTENT_SOURCE","r":"boolean","v":1},{"c":"PREREVIEW_ENABLED","r":"boolean","v":1},{"c":"PROD_460_SINGLE_SOURCE_ICONS","r":"boolean","v":1},{"c":"PROD_478_NOTIFICATION_WIDGET_STYLES","r":"boolean","v":1},{"c":"PUB-1716-new-hootlet-behavior","r":"boolean","v":1},{"c":"PUB-2680-DISABLE_NEW_MENTIONS_ON_HOOTLET","r":"boolean","v":1},{"c":"PUB-606_TAG_SELECTOR_FIX","r":"boolean","v":1},{"c":"PUB-MIGRATE_FACEBOOK_GROUP_TO_FACBEOOK_PAGE","r":"boolean","v":1},{"c":"PUB-UNIFIED_MENTIONS_SEARCH_DELAY","r":"passthrough","v":"150"},{"c":"PUBLISHER_NEW_SN_FILTER","r":"boolean","v":1},{"c":"PUB_11431_FILTER_PINTEREST_PRIVATE_NETWORKS","r":"boolean","v":1},{"c":"PUB_11444_ADD_LOGGING_FOR_INSTA_VALIDATION","r":"boolean","v":1},{"c":"PUB_11669_HIDE_FB_BRANDED_CONTENT","r":"boolean","v":1},{"c":"PUB_11826_ENABLE_GHOST_BANNER","r":"boolean","v":1},{"c":"PUB_11860_POST_AS_SINGLEPAYLOAD","r":"boolean","v":1},{"c":"PUB_11943_EXPOSE_COMPOSER_CONSTRUCTOR","r":"boolean","v":1},{"c":"PUB_12938_STATE_FARM_FORCED_VANITY_URL_ID_NC","r":"passthrough","v":"4943"},{"c":"PUB_12938_STATE_FARM_ORG_ID_PASSTHROUGH","r":"passthrough","v":"621029"},{"c":"PUB_13773_DONT_PROXIFY_TWITTER_IMAGE_URLS","r":"boolean","v":1},{"c":"PUB_13915_REMOVE_CAMPAIGNS_FOR_NON_ENTERPRISE","r":"boolean","v":1},{"c":"PUB_14326_DO_NOT_ADD_HTTP_TO_LINKS_NC","r":"boolean","v":1},{"c":"PUB_15008_PRESCREEN_LOGGING","r":"boolean","v":1},{"c":"PUB_15120_FIX_YOUTUBE_TAGS_INPUT","r":"boolean","v":1},{"c":"PUB_15149_HIDE_GOOGLE_PROFILES_WEBFEED_SN_PICKER","r":"boolean","v":1},{"c":"PUB_15184_LOGGING_FOR_THUMBNAIL","r":"boolean","v":1},{"c":"PUB_15326_FIX_SUCCESSFUL_POST_STATUS","r":"boolean","v":1},{"c":"PUB_16448_NEW_REAUTH_MODAL_MAX_PROFILES_FOR_COUNT","r":"passthrough","v":"1000"},{"c":"PUB_16448_NEW_REAUTH_MODAL_SCHEDULED_MSGS_TIME_WINDOW","r":"passthrough","v":"604800"},{"c":"PUB_16761_NULL_CL_FIX","r":"boolean","v":1},{"c":"PUB_17396_IMAGE_MEDIA_UPLOAD_TIMEOUT","r":"boolean","v":1},{"c":"PUB_17396_VIDEO_MEDIA_UPLOAD_TIMEOUT","r":"boolean","v":1},{"c":"PUB_17803_ADOBE_COMPOUND_TRACKING_PARAMS","r":"boolean","v":1},{"c":"PUB_17840_PUBLISH_ON_AMPLIFY_IN_CONTENT_LIBRARY","r":"boolean","v":1},{"c":"PUB_18172_GET_MEMBER_ALLOWED_ORIGIN_LOGGING","r":"boolean","v":1},{"c":"PUB_19580_REFACTORING_LOCATION_AREA","r":"boolean","v":1},{"c":"PUB_19709_ORG_SELECT_SIDEBAR","r":"boolean","v":1},{"c":"PUB_20143_FULL_HEIGHT_NAVBAR_PUBLISHER","r":"boolean","v":1},{"c":"PUB_20514_STORIES_ENTITLEMENT","r":"boolean","v":1},{"c":"PUB_21001_LOG_LEGACY_IG_SETUP_ENTRY","r":"boolean","v":1},{"c":"PUB_21257_FB_NATIVE_SCHEDULING_VIDEO","r":"boolean","v":1},{"c":"PUB_21264_DE_AUTOSCHEDULE","r":"boolean","v":1},{"c":"PUB_21264_DE_AUTOSCHEDULE_END_DATE","r":"passthrough","v":"2021-02-24 12:00:00"},{"c":"PUB_21264_DE_AUTOSCHEDULE_START_DATE","r":"passthrough","v":"2021-02-10 12:00:00"},{"c":"PUB_21355_REMOVE_INSTALL_HOOTLET","r":"boolean","v":1},{"c":"PUB_21447_EDIT_PRESET_SIDE_MENU","r":"boolean","v":1},{"c":"PUB_21848_NEW_PLANNER_TTI_IMPLEMENTATION","r":"boolean","v":1},{"c":"PUB_22014_EMOJIPICKER_SKINTONES","r":"boolean","v":1},{"c":"PUB_22027_SN_PICKER_TRACKING","r":"boolean","v":1},{"c":"PUB_22075_FIX_EDIT_PRESET","r":"boolean","v":1},{"c":"PUB_22205_FB_ALBUMS_DISABLE_FOR_MULTI","r":"boolean","v":1},{"c":"PUB_22228_CAMPAIGN_STATUS_HEADER","r":"boolean","v":1},{"c":"PUB_22274_IFRAME_SDK_NEW_COMPOSER","r":"boolean","v":1},{"c":"PUB_22293_INSTAGRAM_VIDEO_LENGTH_WARNING","r":"boolean","v":1},{"c":"PUB_22330_LEGACY_DRAFTS_SOFT_DEPRECATION","r":"boolean","v":1},{"c":"PUB_22331_WEBFEED_SOFT_DEPRECATION","r":"boolean","v":1},{"c":"PUB_22844_AD_BLOCKER_MODAL_IN_PLANNER","r":"boolean","v":1},{"c":"PUB_23096_FIX_PERSONAL_PROFILES_AND_PREAPPROVALS","r":"boolean","v":1},{"c":"PUB_23102_LI_MSG_LENGTH","r":"boolean","v":1},{"c":"PUB_23112_BULK_SELECT_ORGANIZATION","r":"boolean","v":1},{"c":"PUB_23137_AMPLIFY_USERS_HIDE_RECOMMENDED_TIMES","r":"boolean","v":1},{"c":"PUB_8108_NCE_VERSION_BUMP_3","r":"boolean","v":1},{"c":"PUB_BULK_COMPOSER_SHOW_TRY_BUTTON_BETA_PERCENTAGE","r":"boolean","v":1},{"c":"PUB_COMPOSER_RECOMMENDED_TIMES_COHORT_COLLECTION_END_DATE","r":"passthrough","v":"2021-09-02 12:00:00"},{"c":"PUB_COMPOSER_RECOMMENDED_TIMES_COHORT_COLLECTION_START_DATE","r":"passthrough","v":"2021-08-23 00:00:00"},{"c":"PUB_COMPOSER_RECOMMENDED_TIMES_END_DATE","r":"passthrough","v":"2021-09-07 00:00:00"},{"c":"PUB_DE_ACTIVE_EXPERIMENTS","r":"passthrough","v":"TEST,PUB_COMPOSER_RECOMMENDED_TIMES"},{"c":"PUB_DE_TRACKING_ENABLED","r":"boolean","v":1},{"c":"PUB_NEWCOMPOSE_REMOVE_FORMAT_ON_PASTE","r":"boolean","v":1},{"c":"PUB_NEW_COMPOSE_VIDEO_NUM_OF_REQUEST_ATTEMPTS","r":"passthrough","v":"20"},{"c":"PUB_PLANNER_SUGGESTED_TIMES_COHORT_COLLECTION_END_DATE","r":"passthrough","v":"2021-03-25 10:25:00"},{"c":"PUB_PLANNER_SUGGESTED_TIMES_COHORT_COLLECTION_START_DATE","r":"passthrough","v":"2021-03-15 10:10:00"},{"c":"PUB_PLANNER_SUGGESTED_TIMES_END_DATE","r":"passthrough","v":"2021-04-22 10:25:00"},{"c":"PUB_SOFT_SHUTOFF_CAMPAIGNS","r":"boolean","v":1},{"c":"PUB_STORIES_ENTITLEMENTS","r":"boolean","v":1},{"c":"SAVE_MESSAGE_TO_APP","r":"boolean","v":1},{"c":"SF_298_HAI_CUSTOM_PERMISSIONS","r":"boolean","v":1},{"c":"SF_ENABLE_GRANULAR_PERMS","r":"boolean","v":1},{"c":"SF_GRANULAR_PERMISSIONS","r":"passthrough","v":"ORG_ADD_SOCIAL_NETWORK,ORG_REMOVE_SOCIAL_NETWORK,ORG_MANAGE_HSU,SN_MANAGE_ADS"},{"c":"SS_1042_REMOVE_PRE_DOWNGRADE_SURVEY","r":"boolean","v":1},{"c":"SS_1068_EXPERIMENT","r":"boolean","v":1},{"c":"SS_1075_AP_BANNER","r":"boolean","v":1},{"c":"SS_1096_ENABLE_ABTEST_TRACKING_PAID_SIGNUP","r":"boolean","v":1},{"c":"SS_1154_SN_LIMIT_PAYWALL_VAR2","r":"boolean","v":1},{"c":"SS_1212_HIDE_SIGNUP_SUBHEADER","r":"boolean","v":1},{"c":"SS_1256_NEW_ANALYTICS_REDIRECTION","r":"boolean","v":1},{"c":"SS_1327_SIGNUP_INQUIRY","r":"boolean","v":1},{"c":"SS_806_TIERED_LEGACY_ADDONS","r":"boolean","v":1},{"c":"SS_813_TERMINATE_PENDING","r":"boolean","v":1},{"c":"SS_850_OPTIMIZELY_CREATE_ACCT_TRACKING","r":"boolean","v":1},{"c":"SS_924_FIX_SEATS_PAYWALL","r":"boolean","v":1},{"c":"SS_985_DATALAYER_CALLBACK","r":"boolean","v":1},{"c":"STRAT_2931_HIDE_SOCIAL_PROFILE_NAME_DURING_TRANSFER","r":"boolean","v":1},{"c":"TAG_120_NEW_GLOBAL_NAV","r":"boolean","v":1},{"c":"VOL-616-PAYWALL-EVENT-BUBBLE","r":"boolean","v":1},{"c":"VOL_262_POST_DOWNGRADE_SURVEY","r":"boolean","v":1},{"c":"VOL_323_ANNUAL_TO_MONTHLY_QUEUED","r":"boolean","v":1},{"c":"VOL_767_TWITTER_POLLING_BANNER_ANALYTICS","r":"boolean","v":1}];
+  hs.javascripts = {"\/ejs-package.js":"\/ejs-package.532c706e.js","\/hs\/account-management.js":"\/hs\/account-management.f803117749.js","\/hs\/accountsetup.js":"\/hs\/accountsetup.35b6dd18db.js","\/hs\/adframes.js":"\/hs\/adframes.e649c17408.js","\/hs\/admin.js":"\/hs\/admin.c00df01add.js","\/hs\/base.js":"\/hs\/base.c171418f51.js","\/hs\/base_socialconnect.js":"\/hs\/base_socialconnect.2b6eed2b92.js","\/hs\/billing.js":"\/hs\/billing.77ca1649e6.js","\/hs\/core-light.js":"\/hs\/core-light.0627dbea68.js","\/hs\/core.js":"\/hs\/core.97ada630a4.js","\/hs\/create-new-account.js":"\/hs\/create-new-account.ca4c0337d7.js","\/hs\/dashboard.js":"\/hs\/dashboard.820175eb9f.js","\/hs\/developers.js":"\/hs\/developers.a806fac901.js","\/hs\/developers_appdirectory.js":"\/hs\/developers_appdirectory.8b2390bff9.js","\/hs\/extended-auth-flow.js":"\/hs\/extended-auth-flow.53ce589736.js","\/hs\/freeseatedinvitations.js":"\/hs\/freeseatedinvitations.92fb6bef64.js","\/hs\/landingpages.js":"\/hs\/landingpages.54bad79c70.js","\/hs\/login.js":"\/hs\/login.b84ae45a72.js","\/hs\/marketo.js":"\/hs\/marketo.f55aa6dfc3.js","\/hs\/mobile-signup-complete.js":"\/hs\/mobile-signup-complete.b939368f68.js","\/hs\/password-validation.js":"\/hs\/password-validation.70d536ac99.js","\/hs\/provision-by-proxy.js":"\/hs\/provision-by-proxy.04c6add45f.js","\/hs\/publisher.js":"\/hs\/publisher.142bd9aece.js","\/hs\/seated-invitation-new.js":"\/hs\/seated-invitation-new.0fa0984b97.js","\/hs\/select-social-network.js":"\/hs\/select-social-network.434bfd30db.js","\/hs\/settings.js":"\/hs\/settings.7a819795af.js","\/hs\/streams.js":"\/hs\/streams.d65dcfbef9.js","\/hs\/teammanagement.js":"\/hs\/teammanagement.a79acd959b.js","\/hs\/youtube-outage.js":"\/hs\/youtube-outage.49f2e420c8.js","\/hs-m\/appSSO.js":"\/hs-m\/appSSO.0ad367ea70.js","\/hs-m\/core.js":"\/hs-m\/core.dd8d543951.js"};
+  hs.images = {"\/affiliates\/headerNav_bg.png":"\/affiliates\/headerNav_bg.030b5a73.png","\/affiliates\/headerNav_link_bg-active.png":"\/affiliates\/headerNav_link_bg-active.a9b58d9c.png","\/affiliates\/headerNav_link_bg.png":"\/affiliates\/headerNav_link_bg.56e49960.png","\/affiliates\/icons\/icons.png":"\/affiliates\/icons\/icons.623a0f6a.png","\/affiliates\/inline-tab_bg.png":"\/affiliates\/inline-tab_bg.7c4d5bd7.png","\/affiliates\/inline-tabs_bg.png":"\/affiliates\/inline-tabs_bg.c5a63a55.png","\/affiliates\/landing\/bullet-round-orange-large.png":"\/affiliates\/landing\/bullet-round-orange-large.7dfebed6.png","\/affiliates\/landing\/featureBox-checkmark.png":"\/affiliates\/landing\/featureBox-checkmark.f209cd4e.png","\/affiliates\/landing\/feature_marketing.png":"\/affiliates\/landing\/feature_marketing.a8443c67.png","\/affiliates\/landing\/feature_payouts.png":"\/affiliates\/landing\/feature_payouts.9f23a410.png","\/affiliates\/landing\/feature_signups.png":"\/affiliates\/landing\/feature_signups.ff3ead38.png","\/affiliates\/landing\/feature_time.png":"\/affiliates\/landing\/feature_time.569beb6c.png","\/affiliates\/landing\/icons-sn.png":"\/affiliates\/landing\/icons-sn.8e819628.png","\/affiliates\/landing\/icons.png":"\/affiliates\/landing\/icons.315b5b88.png","\/affiliates\/landing\/secondaryContent_bg.png":"\/affiliates\/landing\/secondaryContent_bg.40008015.png","\/affiliates\/landing\/secondaryContent_footer.png":"\/affiliates\/landing\/secondaryContent_footer.d6148c58.png","\/affiliates\/logo.png":"\/affiliates\/logo.a1ac031a.png","\/affiliates\/maps\/icons.png":"\/affiliates\/maps\/icons.87395328.png","\/affiliates\/maps\/trim.png":"\/affiliates\/maps\/trim.7a046063.png","\/affiliates\/overview\/monthlyCredits_bg.png":"\/affiliates\/overview\/monthlyCredits_bg.b6e0c74b.png","\/affiliates\/overview\/signupSummary_bg.png":"\/affiliates\/overview\/signupSummary_bg.c254715d.png","\/affiliates\/popup\/affiliate_title.png":"\/affiliates\/popup\/affiliate_title.624fe218.png","\/announcements\/classic_analytics_deprecation\/banner_background.png":"\/announcements\/classic_analytics_deprecation\/banner_background.c5861a32.png","\/announcements\/pinterest\/hootsuite_SmallLogoMark.png":"\/announcements\/pinterest\/hootsuite_SmallLogoMark.d3bb3231.png","\/announcements\/pinterest\/pinterest_background.png":"\/announcements\/pinterest\/pinterest_background.45300eef.png","\/announcements\/pinterest\/pinterest_foreground.png":"\/announcements\/pinterest\/pinterest_foreground.d08188d7.png","\/announcements\/pinterest\/pinterest_wordmark.png":"\/announcements\/pinterest\/pinterest_wordmark.24613e73.png","\/apple-touch-icon.png":"\/apple-touch-icon.ed56b3ea.png","\/apple-touch-icon@2x.png":"\/apple-touch-icon@2x.5959eb75.png","\/apple-touch-icon_72.png":"\/apple-touch-icon_72.a439d8d2.png","\/billing\/Analytics.png":"\/billing\/Analytics.9187ba63.png","\/billing\/Apps.png":"\/billing\/Apps.3ad039d3.png","\/billing\/Build-Brand.png":"\/billing\/Build-Brand.b4515286.png","\/billing\/Calendar.png":"\/billing\/Calendar.036f3f8a.png","\/billing\/Campaigns.png":"\/billing\/Campaigns.4211adcf.png","\/billing\/Do-More.png":"\/billing\/Do-More.883f934c.png","\/billing\/Lighten-Workload.png":"\/billing\/Lighten-Workload.2de1e936.png","\/billing\/PromotedTweets.png":"\/billing\/PromotedTweets.c7010c04.png","\/billing\/Schedule.png":"\/billing\/Schedule.742a1206.png","\/billing\/SchedulePaywall.png":"\/billing\/SchedulePaywall.106f0899.png","\/billing\/Shareable.png":"\/billing\/Shareable.10fee7ac.png","\/billing\/ShortURL.png":"\/billing\/ShortURL.563eefa6.png","\/billing\/Smaller-Task.png":"\/billing\/Smaller-Task.26790d95.png","\/billing\/Teams-Overview.png":"\/billing\/Teams-Overview.8db5513c.png","\/billing\/UnlimitedSuggestions.png":"\/billing\/UnlimitedSuggestions.9b6cf388.png","\/blank.png":"\/blank.ae4118c6.png","\/buttons\/btn-cta.png":"\/buttons\/btn-cta.64555979.png","\/buttons\/btn-sta-med.png":"\/buttons\/btn-sta-med.49be5f72.png","\/buttons\/digg_connect.png":"\/buttons\/digg_connect.15eb951d.png","\/buttons\/facebook_connect.png":"\/buttons\/facebook_connect.69deeacc.png","\/buttons\/foursquare_connect.png":"\/buttons\/foursquare_connect.8344cde7.png","\/buttons\/linkedin_connect.png":"\/buttons\/linkedin_connect.96a5eb83.png","\/buttons\/twitter_connect.png":"\/buttons\/twitter_connect.67278a16.png","\/campaigns\/sprites\/sprite.png":"\/campaigns\/sprites\/sprite.061fb66d.png","\/dashboard\/apps\/app-404.png":"\/dashboard\/apps\/app-404.ee54db48.png","\/dashboard\/avatars\/member-default-100.png":"\/dashboard\/avatars\/member-default-100.750e5e90.png","\/dashboard\/avatars\/org-default-100.png":"\/dashboard\/avatars\/org-default-100.e3ef48b4.png","\/dashboard\/avatars\/team-default-100.png":"\/dashboard\/avatars\/team-default-100.30732662.png","\/dashboard\/images\/corner-gradient.png":"\/dashboard\/images\/corner-gradient.3de82d26.png","\/dashboard\/maps\/icons-120.png":"\/dashboard\/maps\/icons-120.3e062478.png","\/dashboard\/maps\/icons-active.png":"\/dashboard\/maps\/icons-active.d2a44ba9.png","\/dashboard\/maps\/icons-fb-list-type.png":"\/dashboard\/maps\/icons-fb-list-type.4d400df3.png","\/dashboard\/maps\/icons.png":"\/dashboard\/maps\/icons.b59d9d9c.png","\/dashboard\/modals\/ui-overlay-gradient.png":"\/dashboard\/modals\/ui-overlay-gradient.fc5b3f6f.png","\/dashboard\/streams\/tear.png":"\/dashboard\/streams\/tear.3a92b90d.png","\/emoji\/wave@2x.png":"\/emoji\/wave@2x.69a64d1e.png","\/hsads\/beta-large.png":"\/hsads\/beta-large.6353a367.png","\/hsads\/icon_helpbubble.png":"\/hsads\/icon_helpbubble.d1a660a5.png","\/hsads\/logo_small.png":"\/hsads\/logo_small.932be26d.png","\/hsads\/no-image-placeholder.png":"\/hsads\/no-image-placeholder.70bee893.png","\/icons\/chrome_icon.png":"\/icons\/chrome_icon.3f4b6e4c.png","\/icons\/icon-avatar-member.png":"\/icons\/icon-avatar-member.4591f44a.png","\/icons\/icon-avatar-org.png":"\/icons\/icon-avatar-org.7f1a5fe3.png","\/icons\/icon-avatar-team.png":"\/icons\/icon-avatar-team.7ae6ac60.png","\/icons\/icon-avatar-upload.png":"\/icons\/icon-avatar-upload.c926e6e8.png","\/icons\/mp3.png":"\/icons\/mp3.be8b90e7.png","\/icons\/no-avatar-linkedin.png":"\/icons\/no-avatar-linkedin.d89a37c5.png","\/icons\/noAvatar_30.png":"\/icons\/noAvatar_30.6460a8e1.png","\/icons\/overview-default-member-avatar.png":"\/icons\/overview-default-member-avatar.c9434520.png","\/icons\/ribbon-check.png":"\/icons\/ribbon-check.ec618efb.png","\/icons\/small_calendar.png":"\/icons\/small_calendar.9cd48ecd.png","\/insights\/sprites\/sprite.png":"\/insights\/sprites\/sprite.df5c1ef6.png","\/maps\/icons-66.png":"\/maps\/icons-66.53f89330.png","\/maps\/icons-stream-hover.png":"\/maps\/icons-stream-hover.aeebdcfc.png","\/maps\/icons-stream.png":"\/maps\/icons-stream.ffda16dc.png","\/mobile\/appstore.png":"\/mobile\/appstore.7b1d91c3.png","\/mobile\/compose_scroll_indicator.png":"\/mobile\/compose_scroll_indicator.d4bcd2f8.png","\/mobile\/compose_scroll_indicator@2x.png":"\/mobile\/compose_scroll_indicator@2x.f006cf58.png","\/mobile\/googleplay.png":"\/mobile\/googleplay.6518f508.png","\/mobile\/icon-overlay-video.png":"\/mobile\/icon-overlay-video.c6b811e9.png","\/mobile\/icon-overlay-video@2x.png":"\/mobile\/icon-overlay-video@2x.70fe2388.png","\/mobile\/sprites\/main\/sprite-2x.png":"\/mobile\/sprites\/main\/sprite-2x.f36c6367.png","\/mobile\/sprites\/main\/sprite.png":"\/mobile\/sprites\/main\/sprite.bfc004c9.png","\/modals\/freeTrialPromo\/confettiowly.png":"\/modals\/freeTrialPromo\/confettiowly.ded69f89.png","\/modals\/ieLoginRestriction\/explorer-update-illustration.png":"\/modals\/ieLoginRestriction\/explorer-update-illustration.7fa10f05.png","\/popups\/bullet.png":"\/popups\/bullet.7aab836f.png","\/popups\/paywalls\/analytic_points\/Paywall_1a.png":"\/popups\/paywalls\/analytic_points\/Paywall_1a.5999c3b9.png","\/popups\/paywalls\/analytic_points\/Paywall_1b.png":"\/popups\/paywalls\/analytic_points\/Paywall_1b.f6127ebf.png","\/popups\/paywalls\/analytic_points\/Paywall_2.png":"\/popups\/paywalls\/analytic_points\/Paywall_2.75b37fe0.png","\/popups\/paywalls\/analytic_points\/Paywall_3.png":"\/popups\/paywalls\/analytic_points\/Paywall_3.ff2c39db.png","\/popups\/paywalls\/analytic_points\/Paywall_4.png":"\/popups\/paywalls\/analytic_points\/Paywall_4.326dc542.png","\/popups\/slider_bg.png":"\/popups\/slider_bg.61e2a485.png","\/popups\/slider_btn.png":"\/popups\/slider_btn.a0c5201d.png","\/popups\/social-networks-banner.png":"\/popups\/social-networks-banner.523d23fa.png","\/popups\/temporary\/conversation-bubbles.png":"\/popups\/temporary\/conversation-bubbles.154be39c.png","\/popups\/timetoupgrade\/advance_bg.png":"\/popups\/timetoupgrade\/advance_bg.22cac401.png","\/popups\/timetoupgrade\/continue_with_pro.png":"\/popups\/timetoupgrade\/continue_with_pro.f84d123d.png","\/popups\/timetoupgrade\/owl_basic.png":"\/popups\/timetoupgrade\/owl_basic.0255f376.png","\/popups\/timetoupgrade\/owl_bronze.png":"\/popups\/timetoupgrade\/owl_bronze.cb3e362a.png","\/popups\/timetoupgrade\/owl_enterprise.png":"\/popups\/timetoupgrade\/owl_enterprise.b86b89a6.png","\/popups\/timetoupgrade\/owl_gold.png":"\/popups\/timetoupgrade\/owl_gold.d77aa379.png","\/popups\/timetoupgrade\/owl_platinum.png":"\/popups\/timetoupgrade\/owl_platinum.a74120ec.png","\/popups\/timetoupgrade\/owl_silver.png":"\/popups\/timetoupgrade\/owl_silver.68250ee6.png","\/publisher\/addSocialNetworks_bg.png":"\/publisher\/addSocialNetworks_bg.63638c6a.png","\/publisher\/bulk-csv-example.png":"\/publisher\/bulk-csv-example.838ca2c7.png","\/publisher\/composeMessage_bg.png":"\/publisher\/composeMessage_bg.d9a5ef4b.png","\/publisher\/libraryitem-thumb-doc.png":"\/publisher\/libraryitem-thumb-doc.1710719c.png","\/publisher\/libraryitem-thumb-msg.png":"\/publisher\/libraryitem-thumb-msg.cd5223d4.png","\/publisher\/libraryitem-thumb-text.png":"\/publisher\/libraryitem-thumb-text.04157f72.png","\/publisher\/owly_yoda.png":"\/publisher\/owly_yoda.ea6ecbe0.png","\/publisher\/publisher_select_social_network.png":"\/publisher\/publisher_select_social_network.f520345e.png","\/publisher\/sprites\/sprite.png":"\/publisher\/sprites\/sprite.62ad64b0.png","\/removed.png":"\/removed.5bf295e6.png","\/security\/logo-secure_shield.png":"\/security\/logo-secure_shield.03cddc37.png","\/smsappdownload\/appdownload.png":"\/smsappdownload\/appdownload.2f646d4d.png","\/smsappdownload\/appstore.png":"\/smsappdownload\/appstore.bcc45258.png","\/smsappdownload\/googleplay.png":"\/smsappdownload\/googleplay.3d14c99c.png","\/sprites\/icon-24.png":"\/sprites\/icon-24.dabfcfcc.png","\/sprites\/icons-dialogs.png":"\/sprites\/icons-dialogs.b17a7707.png","\/sprites\/icons-hsads.png":"\/sprites\/icons-hsads.83bce56c.png","\/sprites\/icons_publisher.png":"\/sprites\/icons_publisher.489977fc.png","\/sprites\/input-14.png":"\/sprites\/input-14.9a332a01.png","\/sprites\/social-40.png":"\/sprites\/social-40.fb30d6db.png","\/static\/accountsetup\/placeholder\/dialog-icons.png":"\/static\/accountsetup\/placeholder\/dialog-icons.bf75e0f0.png","\/static\/accountsetup\/placeholder\/network-icons.png":"\/static\/accountsetup\/placeholder\/network-icons.f9a159f5.png","\/static\/accountsetup\/placeholder\/option-checkmark.png":"\/static\/accountsetup\/placeholder\/option-checkmark.ac1e0367.png","\/static\/accountsetup\/placeholder\/option-remove.png":"\/static\/accountsetup\/placeholder\/option-remove.c1eea62f.png","\/static\/accountsetup\/steps.png":"\/static\/accountsetup\/steps.e1efec2d.png","\/static\/api-docs\/title.png":"\/static\/api-docs\/title.06e1fef5.png","\/static\/appdirectorydevelopers\/features\/checkbox.png":"\/static\/appdirectorydevelopers\/features\/checkbox.a9e150eb.png","\/static\/billing\/boxTitle_bg.png":"\/static\/billing\/boxTitle_bg.94ad0782.png","\/static\/billing\/icon-passed.png":"\/static\/billing\/icon-passed.255c1709.png","\/static\/billing\/payment-types-credit-cards-horizontal.png":"\/static\/billing\/payment-types-credit-cards-horizontal.d41fcec5.png","\/static\/billing\/payment-types-horizontal.png":"\/static\/billing\/payment-types-horizontal.f328e7be.png","\/static\/billing\/payment-types.png":"\/static\/billing\/payment-types.ac706489.png","\/static\/billinghistory\/graphic_calendar.png":"\/static\/billinghistory\/graphic_calendar.b3ecb654.png","\/static\/billinghistory\/graphic_mail.png":"\/static\/billinghistory\/graphic_mail.b83bec4d.png","\/static\/billinghistory\/title.png":"\/static\/billinghistory\/title.92121c89.png","\/static\/billingmobile\/ic_arrows.png":"\/static\/billingmobile\/ic_arrows.ddf14613.png","\/static\/billingmobile\/ic_arrows@2x.png":"\/static\/billingmobile\/ic_arrows@2x.7a2915c4.png","\/static\/billingmobile\/logo_mobile_billing.png":"\/static\/billingmobile\/logo_mobile_billing.219b9561.png","\/static\/billingmobile\/logo_mobile_billing@2x.png":"\/static\/billingmobile\/logo_mobile_billing@2x.0d62b6d5.png","\/static\/btn_sign_up.png":"\/static\/btn_sign_up.d7aaa95b.png","\/static\/common\/bucketWrapper_bg.png":"\/static\/common\/bucketWrapper_bg.eb829073.png","\/static\/common\/bullet-round-dark-large.png":"\/static\/common\/bullet-round-dark-large.aab53b8c.png","\/static\/common\/bullet-round-dark.png":"\/static\/common\/bullet-round-dark.a6bd7481.png","\/static\/common\/featureInfoPopup-arrows.png":"\/static\/common\/featureInfoPopup-arrows.3497a64b.png","\/static\/common\/navbar\/logo.png":"\/static\/common\/navbar\/logo.8366103e.png","\/static\/common\/navbar\/navbarWrapper_bg.png":"\/static\/common\/navbar\/navbarWrapper_bg.dfe271ca.png","\/static\/common\/stitch-h.png":"\/static\/common\/stitch-h.80923825.png","\/static\/common\/system\/fm-icons.png":"\/static\/common\/system\/fm-icons.97a3a69a.png","\/static\/extensions\/assignments-screenshot.png":"\/static\/extensions\/assignments-screenshot.21fd8778.png","\/static\/extensions\/hootlet-logo.png":"\/static\/extensions\/hootlet-logo.da952f03.png","\/static\/extensions\/hootlet-screenshot-modal.png":"\/static\/extensions\/hootlet-screenshot-modal.8aa0f464.png","\/static\/extensions\/hootlet-screenshot.png":"\/static\/extensions\/hootlet-screenshot.b7901ad6.png","\/static\/extensions\/hootlet_wrap_bg.png":"\/static\/extensions\/hootlet_wrap_bg.c8b5c6b6.png","\/static\/extensions\/logo-chrome-sm.png":"\/static\/extensions\/logo-chrome-sm.741cad48.png","\/static\/extensions\/logo-ecquire.png":"\/static\/extensions\/logo-ecquire.49874f83.png","\/static\/extensions\/logo-firefox-sm.png":"\/static\/extensions\/logo-firefox-sm.4f428d86.png","\/static\/extensions\/logo-hootfeed.png":"\/static\/extensions\/logo-hootfeed.2d8b36ab.png","\/static\/extensions\/logo-hootlet.png":"\/static\/extensions\/logo-hootlet.fc24836c.png","\/static\/features\/social-networks-app-directory.png":"\/static\/features\/social-networks-app-directory.658f4afb.png","\/static\/hootlet\/hootlet-graphic.png":"\/static\/hootlet\/hootlet-graphic.748a1952.png","\/static\/hootlet\/hootlet-icon.png":"\/static\/hootlet\/hootlet-icon.5c92b2c4.png","\/static\/hootlet\/icon-chrome-16.png":"\/static\/hootlet\/icon-chrome-16.295d1995.png","\/static\/hootlet\/icon-firefox-16.png":"\/static\/hootlet\/icon-firefox-16.cbeb10e1.png","\/static\/hs-logo-black.png":"\/static\/hs-logo-black.8ef43320.png","\/static\/icons\/bull_arrow_right.png":"\/static\/icons\/bull_arrow_right.04649ce0.png","\/static\/icons\/bull_check-black.png":"\/static\/icons\/bull_check-black.d09c3b86.png","\/static\/icons\/bull_check-blue.png":"\/static\/icons\/bull_check-blue.121b5981.png","\/static\/icons\/bull_check-green.png":"\/static\/icons\/bull_check-green.70b9f300.png","\/static\/icons\/bull_check-orange.png":"\/static\/icons\/bull_check-orange.871b5a3a.png","\/static\/icons\/bull_check.png":"\/static\/icons\/bull_check.169dd717.png","\/static\/icons\/bull_checkmark-orange.png":"\/static\/icons\/bull_checkmark-orange.3c51b94f.png","\/static\/icons\/bull_checkmark.png":"\/static\/icons\/bull_checkmark.51c52f2c.png","\/static\/icons\/select-arrow.png":"\/static\/icons\/select-arrow.ab32ef2d.png","\/static\/invitation\/landing-page-bg.png":"\/static\/invitation\/landing-page-bg.485dc778.png","\/static\/learn\/certified-account-computer.png":"\/static\/learn\/certified-account-computer.3eb68604.png","\/static\/learn\/hsu-logo.png":"\/static\/learn\/hsu-logo.9c0e299e.png","\/static\/learn\/learn-offer-icons.png":"\/static\/learn\/learn-offer-icons.f91a8fdf.png","\/static\/maps\/auth_map.png":"\/static\/maps\/auth_map.ccce55a5.png","\/static\/maps\/auth_map@2x.png":"\/static\/maps\/auth_map@2x.6b47f82b.png","\/static\/maps\/icons-120.png":"\/static\/maps\/icons-120.da55061f.png","\/static\/migration\/title.png":"\/static\/migration\/title.f649cd5b.png","\/static\/mobile\/download-appstore.png":"\/static\/mobile\/download-appstore.182cadc0.png","\/static\/mobile\/download-googleplay.png":"\/static\/mobile\/download-googleplay.451cce59.png","\/static\/mobile\/mobile-androidscreens.png":"\/static\/mobile\/mobile-androidscreens.769d0cc7.png","\/static\/mobile\/mobile-iOSscreens.png":"\/static\/mobile\/mobile-iOSscreens.95d5f752.png","\/static\/navigation\/footer-sn-icons.png":"\/static\/navigation\/footer-sn-icons.12e401d8.png","\/static\/navigation\/footer-sn-icons@2x.png":"\/static\/navigation\/footer-sn-icons@2x.4d77bfa8.png","\/static\/navigation\/header-logo.png":"\/static\/navigation\/header-logo.a2f2bd0f.png","\/static\/plans\/comparison_bg.png":"\/static\/plans\/comparison_bg.02ecd6ad.png","\/static\/plans\/featureInfoPopup_arrowLeft.png":"\/static\/plans\/featureInfoPopup_arrowLeft.a42c0ecd.png","\/static\/plans\/plans_map.png":"\/static\/plans\/plans_map.6d989732.png","\/static\/plans\/popups\/upgrade_bg.png":"\/static\/plans\/popups\/upgrade_bg.ea722933.png","\/static\/preview_image.png":"\/static\/preview_image.6f2ad840.png","\/static\/pro\/brands.png":"\/static\/pro\/brands.e54c1d26.png","\/static\/pro\/icon-checkmark.png":"\/static\/pro\/icon-checkmark.11bc30ea.png","\/static\/pro\/icons.png":"\/static\/pro\/icons.2cf6dd17.png","\/static\/pro\/popup-arrow-left.png":"\/static\/pro\/popup-arrow-left.d02ecfe9.png","\/static\/pro\/tab-active_bg.png":"\/static\/pro\/tab-active_bg.4097e7c1.png","\/static\/saveplan\/title.png":"\/static\/saveplan\/title.eeb21c12.png","\/static\/security\/logo.png":"\/static\/security\/logo.c079e9cd.png","\/static\/signup\/billing-title.png":"\/static\/signup\/billing-title.b76c1086.png","\/static\/signup\/boxTitle_bg.png":"\/static\/signup\/boxTitle_bg.94ad0782.png","\/static\/signup\/steps-arrows.png":"\/static\/signup\/steps-arrows.68f45b1f.png","\/static\/signup\/title.png":"\/static\/signup\/title.ee24e75a.png","\/static\/smsappdownload\/appdownload.png":"\/static\/smsappdownload\/appdownload.2f646d4d.png","\/static\/socialconnect\/owly-loader-bg.png":"\/static\/socialconnect\/owly-loader-bg.7c467967.png","\/static\/socialconnect\/social-connect.png":"\/static\/socialconnect\/social-connect.e4a14ae8.png","\/static\/socialconnect\/social-connect@2x.png":"\/static\/socialconnect\/social-connect@2x.b27a57b2.png","\/static\/static_logo.png":"\/static\/static_logo.21790e75.png","\/static\/static_title_bg.png":"\/static\/static_title_bg.02144103.png","\/teams\/card-texture.png":"\/teams\/card-texture.aa251ee8.png","\/teams\/icons-nocontent.png":"\/teams\/icons-nocontent.edb11f5f.png","\/teams\/teams-overview-share-access-to-sn.png":"\/teams\/teams-overview-share-access-to-sn.d0d667d3.png","\/teams\/texture-light-fade.png":"\/teams\/texture-light-fade.19a114c3.png","\/teams\/texture-light.png":"\/teams\/texture-light.ac72aaf3.png","\/teams\/unseatedMemberFree_bg.png":"\/teams\/unseatedMemberFree_bg.629be00a.png","\/teams\/unseatedMember_bg.png":"\/teams\/unseatedMember_bg.d5c1d8c5.png","\/teams\/white-fade.png":"\/teams\/white-fade.cc77a2dd.png","\/uipanel\/header_bg.png":"\/uipanel\/header_bg.a0e831cd.png","\/uipanel\/messageBox_bg.png":"\/uipanel\/messageBox_bg.ee373795.png","\/uipanel\/ui-panel-pointer.png":"\/uipanel\/ui-panel-pointer.393e9dd5.png","\/wizards\/instagram-after-first-post\/ig_after_first1.png":"\/wizards\/instagram-after-first-post\/ig_after_first1.ad7eec9f.png","\/wizards\/instagram-after-first-post\/ig_after_first2.png":"\/wizards\/instagram-after-first-post\/ig_after_first2.fa3b9799.png","\/wizards\/instagram-device-pairing\/ig_pair_step1_v2.png":"\/wizards\/instagram-device-pairing\/ig_pair_step1_v2.a8afe904.png","\/wizards\/instagram-device-pairing\/ig_pair_step2_v2.png":"\/wizards\/instagram-device-pairing\/ig_pair_step2_v2.b737c2e9.png","\/wizards\/instagram-device-pairing\/ig_pair_step3_v2.png":"\/wizards\/instagram-device-pairing\/ig_pair_step3_v2.25743ef1.png","\/wizards\/instagram-device-pairing\/instagram-pair-success-2.png":"\/wizards\/instagram-device-pairing\/instagram-pair-success-2.13484b13.png","\/wizards\/lifestyle-owl.png":"\/wizards\/lifestyle-owl.63d41cdd.png","\/wizards\/teams-owl.png":"\/wizards\/teams-owl.f5d4e9c5.png","\/affiliates\/html_bg.jpg":"\/affiliates\/html_bg.6d60ff83.jpg","\/affiliates\/landing\/affiliate-flow.jpg":"\/affiliates\/landing\/affiliate-flow.335c3b5e.jpg","\/affiliates\/landing\/featureBox-footer_bg.jpg":"\/affiliates\/landing\/featureBox-footer_bg.3029083f.jpg","\/affiliates\/landing\/landing_title.jpg":"\/affiliates\/landing\/landing_title.fe1f1bb0.jpg","\/errorpage\/post-not-found-asset-2x.jpg":"\/errorpage\/post-not-found-asset-2x.001f1320.jpg","\/mobile\/bg_sso@2x.jpg":"\/mobile\/bg_sso@2x.fa211272.jpg","\/popups\/invalid-email-popup-v1.jpg":"\/popups\/invalid-email-popup-v1.63b53398.jpg","\/popups\/new-analytics-builder.jpg":"\/popups\/new-analytics-builder.f99e8161.jpg","\/popups\/translate\/translate-mini.jpg":"\/popups\/translate\/translate-mini.6ab01657.jpg","\/static\/admin\/content-bg-production.jpg":"\/static\/admin\/content-bg-production.0ecb030d.jpg","\/static\/admin\/content-bg-staging.jpg":"\/static\/admin\/content-bg-staging.dcd96b86.jpg","\/static\/billing\/partnered-networks.jpg":"\/static\/billing\/partnered-networks.d46dcdac.jpg","\/static\/common\/pageWrapper_bg.jpg":"\/static\/common\/pageWrapper_bg.c4038a55.jpg","\/static\/common\/titleWrapper_bg-hootlet.jpg":"\/static\/common\/titleWrapper_bg-hootlet.95d54f8d.jpg","\/static\/common\/titleWrapper_bg.jpg":"\/static\/common\/titleWrapper_bg.b94bd18f.jpg","\/static\/common\/titleWrapper_hero-home-2-small.jpg":"\/static\/common\/titleWrapper_hero-home-2-small.1d61d4e7.jpg","\/static\/common\/titleWrapper_hero-home-2.jpg":"\/static\/common\/titleWrapper_hero-home-2.53a373fc.jpg","\/static\/developer\/app-default-dev-icon.jpg":"\/static\/developer\/app-default-dev-icon.bcfff6cb.jpg","\/static\/developers\/api\/oauth2-flowchart.jpg":"\/static\/developers\/api\/oauth2-flowchart.7785e42f.jpg","\/static\/extensions\/logo-chrome.jpg":"\/static\/extensions\/logo-chrome.ecc48e9b.jpg","\/static\/extensions\/logo-clickto.jpg":"\/static\/extensions\/logo-clickto.c80f0e28.jpg","\/static\/extensions\/logo-firefox.jpg":"\/static\/extensions\/logo-firefox.077233da.jpg","\/static\/extensions\/screenshots\/assignments_3.jpg":"\/static\/extensions\/screenshots\/assignments_3.12e50acf.jpg","\/static\/features\/social-networks-masthead.jpg":"\/static\/features\/social-networks-masthead.61475f0d.jpg","\/static\/plans\/wrapper_bg.jpg":"\/static\/plans\/wrapper_bg.43e098f5.jpg","\/static\/pro\/benefit-analyze.jpg":"\/static\/pro\/benefit-analyze.bfccc7e8.jpg","\/static\/pro\/benefit-collaborate.jpg":"\/static\/pro\/benefit-collaborate.fddc0645.jpg","\/static\/pro\/benefit-engage.jpg":"\/static\/pro\/benefit-engage.265dc130.jpg","\/static\/pro\/benefit-overview.jpg":"\/static\/pro\/benefit-overview.ab0b0a68.jpg","\/static\/pro\/benefit-secure.jpg":"\/static\/pro\/benefit-secure.99357aba.jpg","\/static\/pro\/features-chart_bg.jpg":"\/static\/pro\/features-chart_bg.99af7e32.jpg","\/static\/pro\/logos.jpg":"\/static\/pro\/logos.8e0b2099.jpg","\/static\/pro\/pro-upgrade-hero-image.jpg":"\/static\/pro\/pro-upgrade-hero-image.2b956ead.jpg","\/static\/pro\/upgrades-chart_bg.jpg":"\/static\/pro\/upgrades-chart_bg.d7e72be1.jpg","\/appdirectory\/reviews-star.gif":"\/appdirectory\/reviews-star.7394e29d.gif","\/buttons\/btn-lite-sta-refreshing.gif":"\/buttons\/btn-lite-sta-refreshing.646e5597.gif","\/buttons\/btn-throbber.gif":"\/buttons\/btn-throbber.f0a8af4e.gif","\/dashboard\/loaders\/btn-round-arrow-loading.gif":"\/dashboard\/loaders\/btn-round-arrow-loading.394aa95a.gif","\/dashboard\/loaders\/round-arrow-loading.gif":"\/dashboard\/loaders\/round-arrow-loading.646e5597.gif","\/dashboard\/loaders\/round-line-loading.gif":"\/dashboard\/loaders\/round-line-loading.12354417.gif","\/dashboard\/loaders\/round-radial-lines-dark-bg.gif":"\/dashboard\/loaders\/round-radial-lines-dark-bg.d9316d16.gif","\/dashboard\/loaders\/round-radial-lines-loader.gif":"\/dashboard\/loaders\/round-radial-lines-loader.776d6b42.gif","\/dashboard\/loaders\/squares-loading.gif":"\/dashboard\/loaders\/squares-loading.5879dd82.gif","\/dashboard\/modals\/ui-overlay-waffowl.gif":"\/dashboard\/modals\/ui-overlay-waffowl.2070b2cb.gif","\/dashboard\/popups\/waffowl.gif":"\/dashboard\/popups\/waffowl.2070b2cb.gif","\/dashboard\/streams\/1_engage.gif":"\/dashboard\/streams\/1_engage.e4757e94.gif","\/dashboard\/streams\/1_engage_loop.gif":"\/dashboard\/streams\/1_engage_loop.47b085cc.gif","\/dashboard\/streams\/2_expand.gif":"\/dashboard\/streams\/2_expand.8e5d5cc5.gif","\/dashboard\/streams\/2_expand_loop.gif":"\/dashboard\/streams\/2_expand_loop.c92b05eb.gif","\/dashboard\/streams\/5_custom.gif":"\/dashboard\/streams\/5_custom.11c854c9.gif","\/dashboard\/streams\/5_custom_loop.gif":"\/dashboard\/streams\/5_custom_loop.4ce6a962.gif","\/hsads\/loader-32.gif":"\/hsads\/loader-32.24a6677b.gif","\/loader.gif":"\/loader.776d6b42.gif","\/mobile\/ajax-loader.gif":"\/mobile\/ajax-loader.c85d60ad.gif","\/mobile\/loader.gif":"\/mobile\/loader.07dc5f0a.gif","\/mobile\/loader@2x.gif":"\/mobile\/loader@2x.4f8441d8.gif","\/mobile\/loader_large.gif":"\/mobile\/loader_large.d0b9f04a.gif","\/mobile\/loader_large@2x.gif":"\/mobile\/loader_large@2x.6d9782c0.gif","\/module-loader-small.gif":"\/module-loader-small.4dd5a5a2.gif","\/smartbanner_dark_background_stripes.gif":"\/smartbanner_dark_background_stripes.371ffb36.gif","\/src.gif":"\/src.6a1ea1d1.gif","\/static\/common\/lightbox\/blank.gif":"\/static\/common\/lightbox\/blank.e0a7e4ed.gif","\/static\/icons\/bull_circle-grey.gif":"\/static\/icons\/bull_circle-grey.47543e78.gif","\/static\/icons\/bull_square-blue.gif":"\/static\/icons\/bull_square-blue.9947ef50.gif","\/static\/icons\/colorpicker-arrow.gif":"\/static\/icons\/colorpicker-arrow.c64464ee.gif","\/static\/loaders\/loader-64-64.gif":"\/static\/loaders\/loader-64-64.1d3e1b81.gif","\/static\/section_bg.gif":"\/static\/section_bg.e32c4996.gif","\/static\/signup\/loading-bar.gif":"\/static\/signup\/loading-bar.0b70d36b.gif","\/static\/socialconnect\/loader-small.gif":"\/static\/socialconnect\/loader-small.4dd5a5a2.gif","\/wizards\/instagram-device-pairing\/ig-onboarding-step1.gif":"\/wizards\/instagram-device-pairing\/ig-onboarding-step1.27d814ab.gif","\/wizards\/instagram-device-pairing\/ig-onboarding-step2.gif":"\/wizards\/instagram-device-pairing\/ig-onboarding-step2.104b0e14.gif","\/wizards\/instagram-device-pairing\/ig-onboarding-step3.gif":"\/wizards\/instagram-device-pairing\/ig-onboarding-step3.11ae8158.gif","\/favicon.ico":"\/favicon.95722e25.ico","\/icons\/contacts.ico":"\/icons\/contacts.cb474517.ico","\/icons\/publisher.ico":"\/icons\/publisher.660aac21.ico","\/icons\/stats.ico":"\/icons\/stats.b27c81dc.ico","\/icons\/streams.ico":"\/icons\/streams.e71acb74.ico","\/dashboard\/avatars\/member-default-100.svg":"\/dashboard\/avatars\/member-default-100.00849fbd.svg","\/dashboard\/avatars\/org-default-100.svg":"\/dashboard\/avatars\/org-default-100.64f10fcc.svg","\/dashboard\/avatars\/team-default-100.svg":"\/dashboard\/avatars\/team-default-100.301245cd.svg","\/dashboard\/maps\/global-nav-icons-updated-1.svg":"\/dashboard\/maps\/global-nav-icons-updated-1.7005a57d.svg","\/dashboard\/maps\/global-nav-icons-updated.svg":"\/dashboard\/maps\/global-nav-icons-updated.d8870743.svg","\/dashboard\/maps\/global-nav-icons.svg":"\/dashboard\/maps\/global-nav-icons.a198ff5c.svg","\/dashboard\/maps\/icons-sn.svg":"\/dashboard\/maps\/icons-sn.152de8b6.svg","\/dashboard\/maps\/icons.svg":"\/dashboard\/maps\/icons.77758f7b.svg","\/publisher\/scheduling-graphic.svg":"\/publisher\/scheduling-graphic.4d280ce6.svg","\/static\/admin\/admin-hootsuite-logo.svg":"\/static\/admin\/admin-hootsuite-logo.b8a6e0a0.svg","\/static\/login\/alerts\/error-alert-icon.svg":"\/static\/login\/alerts\/error-alert-icon.0fce3bf8.svg","\/static\/login\/alerts\/success-alert-icon.svg":"\/static\/login\/alerts\/success-alert-icon.f5ddc5ac.svg","\/static\/login\/alerts\/warning-alert-icon.svg":"\/static\/login\/alerts\/warning-alert-icon.95437f9b.svg","\/static\/login\/socialsignin\/apple-badge.svg":"\/static\/login\/socialsignin\/apple-badge.baf9cfaa.svg","\/static\/login\/socialsignin\/facebook-badge.svg":"\/static\/login\/socialsignin\/facebook-badge.a47a9844.svg","\/static\/login\/socialsignin\/google-badge.svg":"\/static\/login\/socialsignin\/google-badge.141d784c.svg","\/static\/login\/socialsignin\/twitter-badge.svg":"\/static\/login\/socialsignin\/twitter-badge.405091af.svg","\/static\/login\/success-superhero.svg":"\/static\/login\/success-superhero.1e080be3.svg","\/static\/maps\/logos_social_20.svg":"\/static\/maps\/logos_social_20.af9a5c57.svg","\/static\/navigation\/header-logo.svg":"\/static\/navigation\/header-logo.048759b8.svg"};
+
+  hs.avatarFolder = 'avatars_production';
+
+  
+  
+  
+  hs.c.jsTemplateRootUrl = hs.c.rootUrl + '/js/internal/templates/';
+
+	/* Logged in */
+	hs.c.eventSleep = 'dashboard.sleep';
+	hs.c.eventWake = 'dashboard.wake';
+	hs.c.eventSessionTimeout = 'dashboard.sessionTimeout';
+	hs.c.eventBrowserOnline = 'browser.online';
+	hs.c.eventBrowserOffline = 'browser.offline';
+
+    hs.c.extractInlineJs = true;
+
+	hs.c.tweetPageSize = 30;
+	hs.memberId=null;
+	hs.memberEmail=null;
+	hs.memberName=null;
+	hs.memberPlan=null;
+  hs.memberCompanyName=null;
+  hs.memberCompanyTitle =null;
+  hs.memberAvatar =null;
+	hs.memberIsInOrganization=false;
+  hs.memberIsEmailConfirmed=false;
+  hs.memberIsUsingLATM = false;
+  hs.inDunning=null;
+  hs.inExpired=false;
+  hs.inTrial=false;
+	hs.memberMaxPlanCode=hs.memberPlan;
+  hs.memberSocialNetworkLimitation = null;
+  hs.memberPricingProfile = {};
+  hs.memberActionHistory = {};
+      hs.socialNetworks = JSON.parse('{}');
+    var socialNetworkTypes = JSON.parse('[]');
+    var emptySocialNetworksKeyedByType = socialNetworkTypes.reduce(function(acc, socialNetworkType) {
+      acc[socialNetworkType] = {};
+      return acc;
+    }, {});
+    if (!Object.entries) {
+      Object.entries = function (obj) {
+        var ownProps = Object.keys(obj),
+                i = ownProps.length,
+                resArray = new Array(i); // preallocate the Array
+        while (i--)
+          resArray[i] = [ownProps[i], obj[ownProps[i]]];
+
+        return resArray;
+      };
+    }
+    // polyfill taken from
+    // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
+    if (typeof Object.assign !== 'function') {
+      // Must be writable: true, enumerable: false, configurable: true
+      Object.defineProperty(Object, "assign", {
+        value: function assign(target, varArgs) { // .length of function is 2
+          'use strict';
+          if (target === null || target === undefined) {
+            throw new TypeError('Cannot convert undefined or null to object');
+          }
+
+          var to = Object(target);
+
+          for (var index = 1; index < arguments.length; index++) {
+            var nextSource = arguments[index];
+
+            if (nextSource !== null && nextSource !== undefined) {
+              for (var nextKey in nextSource) {
+                // Avoid bugs when hasOwnProperty is shadowed
+                if (Object.prototype.hasOwnProperty.call(nextSource, nextKey)) {
+                  to[nextKey] = nextSource[nextKey];
+                }
+              }
+            }
+          }
+          return to;
+        },
+        writable: true,
+        configurable: true
+      });
+    }
+    hs.socialNetworksKeyedByType =
+      Object.entries(hs.socialNetworks).reduce(function (socialNetworksKeyedByType, entry) {
+        var socialNetworkId = entry[0];
+        var socialNetwork = entry[1];
+        var socialNetworkType = socialNetwork.type;
+
+        var newObj = {};
+        newObj[socialNetworkId] = socialNetwork;
+
+        socialNetworksKeyedByType[socialNetworkType] = Object.assign(socialNetworksKeyedByType[socialNetworkType] || {}, newObj);
+
+        return socialNetworksKeyedByType;
+      }, emptySocialNetworksKeyedByType);
+  
+	hs.countryCode=null;
+	hs.teamSocialNetworks= {};
+	hs.pinnedSns=[];
+	hs.favoritedSns=[];
+	hs.publisherFilterSns=[];
+	hs.memberAutoInitial="";
+	hs.prefs.isNotifyNewTweet=0;
+	hs.prefs.isNewRetweet = 0;
+	hs.prefs.theme = '';
+	hs.prefs.allowSlimStreams = false;	hs.prefs.isNewSnPicker = 1;
+	hs.prefs.restrictedLogin = false;
+
+	hs.organizations = null;
+
+	hs.organizationCount = 0;
+	hs.firstOrganization = [];
+
+	hs.permissionsAndPresets = [];
+	hs.socialNetworkTypeProfileSelectorOrder = [];
+	hs.teams = hs.teams || {};
+	hs.teams.roles = {
+		socialNetwork: null,
+		organization: null,
+		team: null	};
+
+  hs.analytics = hs.analytics || {};
+  hs.analytics.analyticsPro = false;
+
+  hs.requestForgeryToken = "912e07eac8d987af34c65c80cce261a1";
+
+  hs.ads = hs.ads || {};
+          
+  hs.billing = hs.billing || {};
+  // these properties are used by hs-app-billing:
+  hs.billing.pageData = {};
+  hs.billing.onRender = {};
+  hs.billing.modifyJsonPayload = {};
+
+  hs.billing.useNewBilling = false;
+  
+  hs.billing.testFeatures = [];
+      hs.billing.testFeatures = [];
+    hs.memberExtras = {};
+            
+  hs.memberExtras.hasSeenInstagramVideoUpdateAppModal = 
+  hs.memberExtras.hasSeenBulkComposerCtaPopover = 
+  hs.memberExtras.hasPendingBoxesToBeCloned = '';
+  hs.memberExtras.hasSeenDashboardNotificationBanner = '';
+  hs.memberExtras.dashboardNotificationBannerPopupSeenHash = '';
+  hs.memberExtras.dashboardNotificationBannerTitle = '';
+  hs.memberExtras.dashboardNotificationBannerMessage = '';
+  hs.memberExtras.dashboardNotificationBannerLinkText = '';
+  hs.memberExtras.dashboardNotificationBannerLinkTarget = '';
+  hs.memberExtras.dashboardNotificationBannerLinkUrl = '';
+  hs.memberExtras.dashboardNotificationBannerType = '';
+  hs.memberExtras.dashboardNotificationBannerName = '';
+  hs.memberExtras.dashboardNotificationState = '';
+  hs.memberExtras.bulkComposerVersion = '';
+  hs.memberExtras.composerVersion = '';
+  hs.memberExtras.hasSeenNewComposerOnboarding = false;
+  hs.memberExtras.hasSeenTwitterMaxImagePopup = false;
+  hs.memberExtras.hasSeenLinkedInMaxImagePopup = false;
+  hs.memberExtras.hasSeenPinterestMaxImagePopup = false;
+  hs.memberExtras.hasSeenScheduledContentPopover = false;
+  hs.memberExtras.hasSeenContentLibraryImagesPopover = false;
+  hs.memberExtras.hasSeenAccessTemplatesPopover = false;
+  hs.memberExtras.hasSeenNewComposerCampaignsOnboarding = false;
+  hs.memberExtras.hasSeenLinkedInComposePopover = false;
+  hs.memberExtras.publisherSettings={};
+  hs.memberExtras.autoScheduleSettings={};
+
+	// Values needed for intercom.io information.
+	hs.memberSignupDate = null;
+	hs.memberTrialStartDate = null;
+  hs.memberTrialEndDate = null;
+  hs.memberIsFreeTrial = 0;
+
+
+  hs.showPopoverYouTubeVideo = '';
+  hs.showPopoverYouTubeVideoOnAdd = '';
+  hs.canAccessInbox = '';
+  hs.canSeeNewTeamsOrgsUxReleaseOne = '';
+  hs.canSeeNewTeamsOrgsUxReleaseTwo = '';
+  hs.canSeeNewTeamsOrgsUxReleaseThree = '';
+  hs.canSeeNewAddSnDropdownEnterprise = '';
+  hs.memberMaxScheduledMessages = 
+  hs.shouldSeeNotificationCenter = '';
+
+  hs.entryPoints = {};
+
+
+  hs.fbChannelPath="https://hootsuite.com/xd_receiver.htm";
+  hs.fbFanpageId="177463958820";
+  hs.fbApiVersion="6.0";
+  hs.fbAppId="183319479511";
+  hs.fbGraphApiUrl= "";
+  hs.gPlusClientId="821312493542-0tk7virs4gc21trhvk6mehbocbim53ag.apps.googleusercontent.com";
+	hs.env = "production";
+
+  hs.c.SESSION_COOKIE = '_SID';
+  hs.c.SESSION_COOKIE_DEFAULT = '_SID';
+    hs.csrfToken = 'bbfe17486454c6c3fd4d6505a279a1c3a28907c3506b9db6d8d67095c3555c26';
+  
+    hs.loginCsrfToken = '2205ac073a6828caa0b51802601388c04474ce32a39fcaacd155ed875ec2317fdf6ebb3675598f637e8d82fc1955c20a41184e9e644b1ed33c3a66c453b22735';
+  
+  hs.facadeApiUrl = 'https://api-auth.hootsuite.com';
+
+  hs.c.IMAGE_SSL_PROXY_URL = 'https://d1r1anxoiubeog.cloudfront.net';
+
+  hs.networksConf = {"TWITTER":{"name":"Twitter","className":"twitter","iconSourceKey":"fa-twitter","brandColour":"#55acee","supportsVideoPosting":true,"components":{"OLD_COMPOSER":{"context":"COMMON"},"COMPOSER":{"context":"COMMON","iconSourceKey":"fa-twitter"},"SCHEDULER":{"context":"COMMON"},"BULK_SCHEDULER":{"context":"COMMON"},"PLANNER":{"context":"COMMON"},"STREAMS":{"context":"COMMON"},"SOCIAL_SIGNUP":{"context":"COMMON"}},"parentType":null},"FACEBOOK":{"name":"Facebook","className":"facebook","iconSourceKey":"fa-facebook-official","brandColour":"#3b5998","supportsVideoPosting":true,"components":{"STREAMS":{"context":"COMMON"},"SOCIAL_SIGNUP":{"context":"COMMON"}},"parentType":null},"FACEBOOKPAGE":{"name":"Facebook Page","className":"facebookpage","iconSourceKey":"fa-facebook-pages","brandColour":"#3b5998","supportsVideoPosting":true,"components":{"OLD_COMPOSER":{"context":"COMMON"},"COMPOSER":{"context":"COMMON","iconSourceKey":"fa-facebook-pages"},"SCHEDULER":{"context":"COMMON"},"BULK_SCHEDULER":{"context":"COMMON"},"PLANNER":{"context":"COMMON"},"STREAMS":{"context":"COMMON"}},"parentType":"FACEBOOK"},"FACEBOOKGROUP":{"name":"Facebook Group","className":"facebookgroup","iconSourceKey":"fa-facebook-f","brandColour":"#3b5998","supportsVideoPosting":true,"components":{"OLD_COMPOSER":{"context":"COMMON"},"COMPOSER":{"context":"COMMON","iconSourceKey":"fa-facebook-f"},"SCHEDULER":{"context":"COMMON"},"BULK_SCHEDULER":{"context":"COMMON"},"PLANNER":{"context":"COMMON"},"STREAMS":{"context":"COMMON"}},"parentType":"FACEBOOK"},"LINKEDIN":{"name":"LinkedIn","className":"linkedin","iconSourceKey":"fa-linkedin","brandColour":"#1c87bd","supportsVideoPosting":false,"components":{"OLD_COMPOSER":{"context":"COMMON"},"COMPOSER":{"context":"COMMON","iconSourceKey":"fa-linkedin"},"SCHEDULER":{"context":"COMMON"},"BULK_SCHEDULER":{"context":"COMMON"},"PLANNER":{"context":"COMMON"},"STREAMS":{"context":"COMMON"}},"parentType":null},"LINKEDINCOMPANY":{"name":"LinkedIn Company","className":"linkedincompany","iconSourceKey":"fa-linkedin","brandColour":"#1c87bd","supportsVideoPosting":true,"components":{"OLD_COMPOSER":{"context":"COMMON"},"COMPOSER":{"context":"COMMON","iconSourceKey":"fa-linkedin"},"SCHEDULER":{"context":"COMMON"},"BULK_SCHEDULER":{"context":"COMMON"},"PLANNER":{"context":"COMMON"},"STREAMS":{"context":"COMMON"}},"parentType":"LINKEDIN"},"FOURSQUARE":{"name":"Foursquare","className":"foursquare","supportsVideoPosting":false,"parentType":null},"INSTAGRAM":{"name":"Instagram","className":"instagram","iconSourceKey":"fa-instagram","brandColour":"linear-gradient(#405de6, transparent), linear-gradient(200deg, #d047d1,#ff0000,#ffff00)","supportsVideoPosting":true,"components":{"OLD_COMPOSER":{"context":"COMMON"},"COMPOSER":{"context":"COMMON","iconSourceKey":"fa-instagram"},"SCHEDULER":{"context":"COMMON"},"PLANNER":{"context":"COMMON"},"STREAMS":{"context":"COMMON"}},"parentType":null},"INSTAGRAMBUSINESS":{"name":"Instagram Business","className":"instagrambusiness","iconSourceKey":"fa-instagram","brandColour":"linear-gradient(#405de6, transparent), linear-gradient(200deg, #d047d1,#ff0000,#ffff00)","supportsVideoPosting":true,"components":{"OLD_COMPOSER":{"context":"COMMON"},"COMPOSER":{"context":"COMMON","iconSourceKey":"fa-instagram"},"SCHEDULER":{"context":"COMMON"},"PLANNER":{"context":"COMMON"},"STREAMS":{"context":"COMMON"}},"parentType":"INSTAGRAM"},"YOUTUBECHANNEL":{"name":"YouTube","className":"youtube","iconSourceKey":"fa-youtube-play","brandColour":"#cd201f","supportsVideoPosting":true,"components":{"COMPOSER":{"context":"","iconSourceKey":"fa-youtube-play"},"SCHEDULER":{"context":"COMMON"},"PLANNER":{"context":"COMMON"},"STREAMS":{"context":"COMMON"}},"parentType":null},"PINTEREST":{"name":"Pinterest","className":"pinterest","iconSourceKey":"fa-pinterest","brandColour":"#bd081c","supportsVideoPosting":false,"components":{"COMPOSER":{"context":"CUSTOM","iconSourceKey":"fa-pinterest","typeClassName":"-pinterest","header":{"label":"New Pin","orgPicker":{"isDisabled":false},"campaigns":{"isDisabled":true}},"messageEditArea":[{"componentKey":"BOARD_SELECTOR","componentType":"PinterestBoardPicker","displayOrder":1,"props":{"extendedInfoKey":"boards","iconSourceKey":"fa-pinterest","text":"Pin To"}},{"componentKey":"DESTINATION_URL","componentType":"ExtendedInfoTextEntry","displayOrder":3,"props":{"extendedInfoKey":"destinationUrl","iconSourceKey":"fa-link","placeHolder":"Add the URL this Pin links to (required)","text":"Website"}},{"componentKey":"MESSAGE_TEXT","componentType":"MessageEditText","displayOrder":4,"props":{"error":null,"placeholder":"Say more about this Pin (required)","showLinkPrompt":false,"text":"Description","socialNetworkTypes":["PINTEREST"]}},{"componentKey":"MEDIA_PICKER","componentType":"MediaPicker","displayOrder":2,"props":{"iconSourceKey":"fa-image","text":"Image","canUploadVideo":false}}],"messagePreviewArea":{"isDisabled":false,"ghostCardBanner":{"title":"Select a board to preview your pin","message":"See how your pin will look before you publish it. Choose a board to get started."}},"mediaAttachmentArea":{"uploadLimit":1},"footer":{"PUBLISH_MENU":{"isDisabled":false}}},"SCHEDULER":{"context":"CUSTOM"},"PLANNER":{"context":"COMMON"}},"parentType":null,"authSuccessFollowup":{"titleText":"Create And Schedule Pins","bodyText":"Now you can easily create new Pins, right from Hootsuite. Create your first Pin now!","finishBtnText":"Ok, got it"}}}
+</script>
+
+  
+<script>window.noZensmooth = true</script>
+
+  
+  <script src="./Hootsuite - Login_files/core.97ada630a4.gz.js"></script>
+    <script src="./Hootsuite - Login_files/base_socialconnect.2b6eed2b92.gz.js"></script>
+  
+  
+<!-- Page Header for Web and Mobile View -->
+  <header class="header">
+    <div class="container">
+          
+            <a href="https://hootsuite.com/" class="ir hsLogo" tabindex="-1"></a>
+            </div>
+  </header>
+
+<div class="mainLogin _mainLoginBlock">
+  <!-- Background Image for Web View Only -->
+        <div class="superheroBackgroundImage"></div>
+  
+  <!-- Content -->
+  <div class="contentColumn">
+    <div class="sectionContainer">
+      <h1>Sign in</h1>
+      <!-- Error, Notice and Success Messages -->
+            <div class="formContainer">
+                <form method="post" class="_emailPasswordForm" action="https://hootsuite.com/login">
+          <!-- Email and Password Inputs -->
+          <div class="inputWrapper">
+            <label for="loginEmailInput">Email</label>
+            <input id="loginEmailInput" class="inputContainer _requiredInput _emailInput" required="" type="email" name="email" title="Please enter a valid email address" maxlength="100" tabindex="1" autofocus="autofocus" value="" role="textbox" aria-labelledby="loginEmailLabel" aria-required="true">
+            <div class="inlineErrorContainer _inlineErrorContainer" style="display:none;">
+  <div class="inlineErrorIconContainer">
+    <img src="./Hootsuite - Login_files/error-alert-icon.0fce3bf8.svg" class="inlineErrorIcon">
+  </div>
+  <div class="inlineErrorMessageContainer">
+    <div class="inlineErrorTitle _inlineErrorTitle"></div>
+    <div class="inlineErrorMessage _inlineErrorMessage"></div>
+  </div>
+</div>
+          </div>
+          <div class="inputWrapper">
+            <label for="loginPasswordInput">Password</label>
+            <a href="https://hootsuite.com/reset-password" class="forgotPassword _forgotPassword" tabindex="3">Forgot password</a>
+            <input id="loginPasswordInput" required="" type="password" name="password" maxlength="100" class="inputContainer _requiredInput _passwordInput" role="textbox" aria-labelledby="loginPasswordLabel" aria-required="true" tabindex="2">
+            <div class="inlineErrorContainer _inlineErrorContainer" style="display:none;">
+  <div class="inlineErrorIconContainer">
+    <img src="./Hootsuite - Login_files/error-alert-icon.0fce3bf8.svg" class="inlineErrorIcon">
+  </div>
+  <div class="inlineErrorMessageContainer">
+    <div class="inlineErrorTitle _inlineErrorTitle"></div>
+    <div class="inlineErrorMessage _inlineErrorMessage"></div>
+  </div>
+</div>
+          </div>
+
+          <!-- Google Authentication -->
+            <div class="inputWrapper" style="display:none">
+    <label for="loginGoogleAuthenticatorInput">Google Authenticator Code</label>
+    <input id="loginGoogleAuthenticatorInput" name="googleAuthenticator" maxlength="6" class="inputContainer _googleAuthenticatorInput _requiredInput" autocomplete="off" aria-labelledby="loginGoogleAuthenticatorLabel" aria-required="true" type="text">
+    <div class="inlineErrorContainer _inlineErrorContainer" style="display:none;">
+  <div class="inlineErrorIconContainer">
+    <img src="./Hootsuite - Login_files/error-alert-icon.0fce3bf8.svg" class="inlineErrorIcon">
+  </div>
+  <div class="inlineErrorMessageContainer">
+    <div class="inlineErrorTitle _inlineErrorTitle"></div>
+    <div class="inlineErrorMessage _inlineErrorMessage"></div>
+  </div>
+</div>
+    <p class="googleAuthLinksContainer">
+      <a href="https://help.hootsuite.com/entries/22527304-Managing-Google-Authenticator" target="_blank">What's this?</a><br>
+      Don't have your code? <a class="_googleAuthenticatorSkipLink" href="https://hootsuite.com/login#">Skip this step</a>
+    </p>
+  </div>
+
+          <!-- Recaptcha -->
+          
+          <!-- Sign In (CTA) Button -->
+                    <button class="button _submit submitButton green" type="submit" aria-disabled="false">Sign in</button>
+          <input type="hidden" name="method" value="email">
+          <input type="hidden" name="loginCsrfToken" value="2205ac073a6828caa0b51802601388c04474ce32a39fcaacd155ed875ec2317fdf6ebb3675598f637e8d82fc1955c20a41184e9e644b1ed33c3a66c453b22735">
+        </form>
+      </div>
+
+      <!-- Single Sign On Button -->
+              <button class="button _showSSO primaryButton" type="button">Single sign on</button>
+      
+      <div class="linksSectionContainer">
+        <!-- Create Account Link -->
+                              <a href="https://hootsuite.com/plans" class="link">Sign up</a>
+                  
+        <!-- Legal Notice -->
+        
+
+
+<p class="modLegalNotice x-login">
+    By clicking Sign in, I agree to <a href="https://hootsuite.com/legal/terms#eztoc1_4_1" target="_blank">Hootsuite's Terms</a>, including the payment terms, and <a href="https://hootsuite.com/legal/privacy" target="_blank">Privacy Policy</a>
+</p>
+
+        <!-- Social Sign In Link -->
+                  <button class="link _showSocialSignIn" type="button">Use Social Sign In</button>
+              </div>
+    </div>
+  </div>
+</div>
+
+<!-- Single Sign On View -->
+<div class="ssoBlock _ssoBlock" style="display:none;">
+  
+<!-- Background Image for Web View Only -->
+  <div class="superheroBackgroundImage"></div>
+
+<!-- Content -->
+<div class="contentColumn">
+  <div class="sectionContainer">
+    <!-- Switch to Standard Login -->
+    <p class="standardLoginSwitch">
+      <button class="link _showLoginForm" type="button">← Back to sign in</button>
+    </p>
+    <h1>Single sign on</h1>
+    <!-- Error, Notice and Success Messages -->
+        <div class="formContainer">
+      <form method="post" class="_emailSsoForm" action="https://hootsuite.com/login?method=sso">
+        <div class="inputWrapper">
+          <label for="ssoEmailInput">Email</label>
+          <input id="ssoEmailInput" type="email" name="email" maxlength="100" autofocus="autofocus" class="inputContainer _requiredInput _emailInput " autocomplete="off" aria-required="true" value="">
+          <input type="hidden" name="method" value="sso">
+          <div class="inlineErrorContainer _inlineErrorContainer" style="display:none;">
+  <div class="inlineErrorIconContainer">
+    <img src="./Hootsuite - Login_files/error-alert-icon.0fce3bf8.svg" class="inlineErrorIcon">
+  </div>
+  <div class="inlineErrorMessageContainer">
+    <div class="inlineErrorTitle _inlineErrorTitle"></div>
+    <div class="inlineErrorMessage _inlineErrorMessage"></div>
+  </div>
+</div>
+        </div>
+        <button class="button _submit submitButton green" type="submit" aria-disabled="false">Single sign on</button>
+      </form>
+
+      <div class="linksSectionContainer">
+        <!-- Info Helper -->
+        <a class="x-help" title="With Single Sign-On configured, a user can authenticate with Hootsuite using their corporate network credentials. Any corporate network identity provider that supports Security Assertion Markup Language (SAML) is supported. Please contact your Hootsuite Enterprise Account Manager for more information." href="https://hootsuite.com/login#">What is single sign on?</a>
+
+        <!-- Switch to Standard Login -->
+        <p class="sso">Don't have single sign on? Use the 
+          <button class="link _showLoginForm" type="button">standard sign in form</button>
+        </p>
+
+        <!-- Create Account Link -->
+                              <a href="https://hootsuite.com/plans" class="link">Sign up</a>
+                        </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<!-- Social Sign In View -->
+<div class="socialSignInBlock _socialSignInBlock" style="display:none;">
+  
+<!-- Background Image for Web View Only -->
+  <div class="superheroBackgroundImage"></div>
+
+<!-- Content -->
+<div class="contentColumn">
+  <div class="sectionContainer">
+    <h1>Sign in</h1>
+    <!-- Switch to Standard Login -->
+    <p class="standardLoginSwitch">
+      <button class="link _showLoginForm" type="button">← Back to sign in</button>
+    </p>
+    <!-- Error, Notice and Success Messages -->
+        <div class="formContainer">
+      <div class="socialSignInContainer">
+        <label>Social sign in</label>
+        <button class="button _socialLoginFacebook socialSignInButton facebookSignInButton" type="button"><span><img class="socialBadge" img="" src="./Hootsuite - Login_files/facebook-badge.a47a9844.svg">Sign in with Facebook</span></button>
+        <button class="button _socialLoginTwitter socialSignInButton twitterSignInButton" type="button"><img class="socialBadge" img="" src="./Hootsuite - Login_files/twitter-badge.405091af.svg"><span>Sign in with Twitter</span></button>
+        <button class="button _socialLoginGoogle socialSignInButton googleSignInButton" type="button"><img class="socialBadge" img="" src="./Hootsuite - Login_files/google-badge.141d784c.svg"><span>Sign in with Google</span></button>
+        <button class="button _socialLoginApple socialSignInButton appleSignInButton" type="button"><img class="socialBadge" img="" src="./Hootsuite - Login_files/apple-badge.baf9cfaa.svg"><span><span>Sign in with Apple</span></span></button>
+      </div>
+    </div>
+    <div class="linksSectionContainer">
+      
+
+
+<p class="modLegalNotice x-login">
+    By clicking Sign in, I agree to <a href="https://hootsuite.com/legal/terms#eztoc1_4_1" target="_blank">Hootsuite's Terms</a>, including the payment terms, and <a href="https://hootsuite.com/legal/privacy" target="_blank">Privacy Policy</a>
+</p>
+    </div>
+  </div>
+</div>
+</div>
+
+<!-- Create Account Mobile Web View -->
+<div class="createAccountBlock _createAccountBlock" style="display:none;">
+  
+<!-- Content -->
+<div class="contentColumn">
+  <div class="sectionContainer">
+    <!-- Switch to Standard Login -->
+    <p class="standardLoginSwitch">
+      <button class="link _showLoginForm" type="button">← Back to sign in</button>
+    </p>
+    <h1>Create account</h1>
+    <!-- Error, Notice and Success Messages -->
+        <div class="formContainer">
+      <!-- Create Account Form for Mobile Web View Only -->
+      <form method="post" class="_signupForm" action="https://hootsuite.com/login-create-account">
+        <div class="inputWrapper">
+          <label for="createNameInput">Full Name</label>
+          <input id="createNameInput" type="text" name="member[fullName]" maxlength="100" autofocus="autofocus" class="inputContainer _requiredInput" value="" role="textbox" aria-labelledby="createNameLabel" aria-required="true">
+        </div>
+        <div class="inputWrapper">
+          <label for="createEmailInput">Email</label>
+          <input id="createEmailInput" required="" type="email" name="member[email]" maxlength="100" class="inputContainer _requiredInput _emailInput" value="" role="textbox" aria-labelledby="createEmailLabel" aria-required="true">
+          <div class="inlineErrorContainer _inlineErrorContainer" style="display:none;">
+  <div class="inlineErrorIconContainer">
+    <img src="./Hootsuite - Login_files/error-alert-icon.0fce3bf8.svg" class="inlineErrorIcon">
+  </div>
+  <div class="inlineErrorMessageContainer">
+    <div class="inlineErrorTitle _inlineErrorTitle"></div>
+    <div class="inlineErrorMessage _inlineErrorMessage"></div>
+  </div>
+</div>
+        </div>
+        <div class="inputWrapper">
+          <label for="createPasswordInput">Password</label>
+          <input id="createPasswordInput" required="" type="password" name="member[password]" maxlength="100" class="inputContainer _requiredInput _passwordInputNew" role="textbox" aria-labelledby="createPasswordLabel" aria-required="true">
+          <div class="inlineErrorContainer _inlineErrorContainer" style="display:none;">
+  <div class="inlineErrorIconContainer">
+    <img src="./Hootsuite - Login_files/error-alert-icon.0fce3bf8.svg" class="inlineErrorIcon">
+  </div>
+  <div class="inlineErrorMessageContainer">
+    <div class="inlineErrorTitle _inlineErrorTitle"></div>
+    <div class="inlineErrorMessage _inlineErrorMessage"></div>
+  </div>
+</div>
+        </div>
+        <input type="hidden" name="token" value="56932dfe05b4a6bc07b1011f6498be838bbbc4f9d62f6b22e6564eeed0d87cf3">
+        <input type="hidden" name="signupCsrfToken" value="56932dfe05b4a6bc07b1011f6498be838bbbc4f9d62f6b22e6564eeed0d87cf3">
+        <input type="hidden" name="planId" value="1">
+        <input type="hidden" name="member[defaultTimezone]" value="Asia/Kolkata">
+        <input type="hidden" name="member[language]" value="en">
+        <input type="hidden" name="form_submit" value="1">
+
+        <!-- Create Account (CTA) Button -->
+                <button class="button disabled _submit submitButton" type="submit" aria-disabled="true">Create account</button>
+      </form>
+
+      <div class="linksSectionContainer">
+        <!-- Switch to Standard Login -->
+        <p>Have a Hootsuite account? <button class="link _showLoginForm" type="button">Sign in</button></p>
+
+        <!-- Legal Notice -->
+        
+
+
+<p class="modLegalNotice x-login">
+    By clicking Create account, I agree to <a href="https://hootsuite.com/legal/terms#eztoc1_4_1" target="_blank">Hootsuite's Terms</a>, including the payment terms, and <a href="https://hootsuite.com/legal/privacy" target="_blank">Privacy Policy</a>
+</p>
+
+        <!-- Social Sign In Link -->
+                  <button class="link _showSocialSignIn" type="button">Use Social Sign In</button>
+              </div>
+    </div>
+  </div>
+</div>
+</div>
+  	
+
+
+
+
+<script>window.noZensmooth = true</script>
+
+  
+  <script src="./Hootsuite - Login_files/login.b84ae45a72.gz.js"></script>
+  
+  
+
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","611911702222239");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=611911702222239&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="">try{(function(){if(void 0===window._cpga){var d=function(){var a=this;a.version="1.0";a.useConsole="object"==typeof console&&"function"==typeof console.log?!0:!1;this.init=function(){};this.readCookie=function(a){a+="\x3d";for(var c=document.cookie.split(";"),e=0;e<c.length;e++){for(var b=c[e];" "===b.charAt(0);)b=b.substring(1,b.length);if(0===b.indexOf(a))return b.substring(a.length,b.length)}return null};this.createCookie=function(c,g,e,b){try{a.log("createCookie: "+c+" "+g+" "+e+" "+b);var h=
+"",f="";if(e){var d=new Date;d.setTime(d.getTime()+Math.ceil(1E3*e));f=" expires\x3d"+d.toGMTString()+";"}"undefined"!=typeof b&&(h=" domain\x3d"+b+"; ");document.cookie=c+"\x3d"+g+";"+f+h+"path\x3d/"}catch(m){}};this.eraseCookie=function(c,g){try{a.createCookie(c,"",-1,g)}catch(e){}};this.log=function(c){try{google_tag_manager["GTM-NSJRPB"].macro(4)&&a.useConsole&&console.log(c)}catch(g){}};this.updateStack=function(c,g){try{var e="",b=63072E6,d=a.readCookie(g),f=[];null!==d&&(f=d.split(" \x3e "));if(!f.length||c!=
+f[f.length-1])return f.push(c),5<f.length&&f.shift(),e=f.join(" \x3e "),a.createCookie(g,e,b),a.log("preloader stack: "+e),e}catch(l){}}};window._cpga=new d;window._cpga.init();d=!1;var k={cmpName:"",cmpSource:"",cmpMedium:"",cmpContent:""};void 0!==google_tag_manager["GTM-NSJRPB"].macro(5)&&(k.cmpContent=google_tag_manager["GTM-NSJRPB"].macro(6),d=!0);d&&window.dataLayer.push(k);(function(a,c,d,e,b,h,f){a.GoogleAnalyticsObject=b;a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};a[b].l=1*new Date;h=c.createElement(d);f=c.getElementsByTagName(d)[0];
+h.async=1;h.src=e;f.parentNode.insertBefore(h,f)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create","UA-17737250-24","auto",{name:"hs",allowLinker:"true"});ga(function(a){try{a=ga.getByName("hs"),window.dataLayer.push({event:"ga_preloader_complete",gacid:a.get("clientId")})}catch(c){window.dataLayer.push({event:"gtm.error",errorMessage:c.message,tag:"preloader - set client id"}),window.dataLayer.push({event:"ga_preloader_complete"})}})}})()}catch(d){dataLayer.push({event:"gtm.error",
+errorMessage:d.message,errorObj:"tag",errorObjName:"preloader"})};</script>
+<script type="text/javascript" id="">!function(b){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var a=window.pintrk;a.queue=[];a.version="3.0";a=document.createElement("script");a.async=!0;a.src=b;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}}("https://s.pinimg.com/ct/core.js");pintrk("load","2618243840007");pintrk("page");</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2618243840007&gt;&amp;noscript=1">
+</noscript>
+<script type="text/javascript" id="">pintrk("track","pagevisit");</script>
+<noscript>
+  <img height="1" width="1" style="display:none;" src="https://ct.pinterest.com/v3/?tid=2618243840007&amp;event=pagevisit&amp;noscript=1">
+</noscript>
+ 
+<script type="text/javascript" id="">(function(a,d,b,f,e,c){a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};a[b].a=e;a[b].e=c;c=d.createElement("script");c.async=!0;c.type="text/javascript";c.src=f+"?aid\x3d"+e;d=d.getElementsByTagName("script")[0];d.parentNode.insertBefore(c,d)})(window,document,"rtp","//sjrtp8-cdn.marketo.com/rtp-api/v1/rtp.js","hootsuitemediainc");rtp("send","view");rtp("get","campaign",!0);</script>
+
+
+ <script type="text/javascript" id="">window._qevents=window._qevents||[];(function(){var a=document.createElement("script");a.src=("https:"==document.location.protocol?"https://secure":"http://edge")+".quantserve.com/quant.js";a.async=!0;a.type="text/javascript";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();window._qevents.push({qacct:"p-m6c2QkbgyNB71",uid:"__INSERT_EMAIL_HERE__"});</script>
+<div style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon384839618014"><img style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon141564000614" width="0" height="0" alt="" src="./Hootsuite - Login_files/0"></div><script src="./Hootsuite - Login_files/adsct" type="text/javascript"></script><script type="text/javascript" id="">(function(){try{google_tag_manager["GTM-NSJRPB"].macro(81)?(void 0==google_tag_manager["GTM-NSJRPB"].macro(82)&&dataLayer.push({event:"gtm.error",errorMessage:"HS ID set but user plan cookie undefined",errorObj:"tag",errorObjName:"Dashboard User Info Debug"}),void 0==google_tag_manager["GTM-NSJRPB"].macro(83)&&dataLayer.push({event:"gtm.error",errorMessage:"HS ID set but login status cookie undefined",errorObj:"tag",errorObjName:"Dashboard User Info Debug"})):(void 0!=google_tag_manager["GTM-NSJRPB"].macro(84)&&void 0==google_tag_manager["GTM-NSJRPB"].macro(85)&&dataLayer.push({event:"gtm.error",errorMessage:"Login cookie set but user plan cookie undefined",
+errorObj:"tag",errorObjName:"Dashboard User Info Debug"}),void 0==google_tag_manager["GTM-NSJRPB"].macro(86)&&void 0!=google_tag_manager["GTM-NSJRPB"].macro(87)&&dataLayer.push({event:"gtm.error",errorMessage:"User plan cookie set but login cookie undefined",errorObj:"tag",errorObjName:"Dashboard User Info Debug"}))}catch(a){}})();</script></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>

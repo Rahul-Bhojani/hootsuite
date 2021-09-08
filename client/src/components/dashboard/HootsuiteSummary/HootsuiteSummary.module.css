@@ -1,0 +1,28 @@
+.maindiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* background-color: grey; */
+  gap: 20px;
+  
+}
+
+/* .container {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+} */
+
+/* .content {
+  justify-content: center;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+} */

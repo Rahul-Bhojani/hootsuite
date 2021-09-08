@@ -1,36 +1,33 @@
-import React, { useEffect } from 'react';
-import PropTypes from 'prop-types';
-import { connect } from 'react-redux';
-import { withRouter } from 'react-router-dom';
-import Admin from './adminDashboard';
-import Hr from './hrDashboard';
-import Staff from './staffDashboard';
+import React, { useEffect } from "react";
+import PropTypes from "prop-types";
+import { connect } from "react-redux";
+import { withRouter } from "react-router-dom";
+import Header from "./Layout/Header";
+import HootSuite from "./HootsuiteSummary/HootsuiteSummary";
+import Footer from "./footer/Footer";
 
-import { loadUser } from '../../actions/auth';
+import { loadUser } from "../../actions/auth";
 
 const Home = ({ auth: { user }, loadUser }) => {
-
-    useEffect(() => {
-        loadUser()
-    }, [loadUser])
-    return (
-        <div>
-            { user && user.role === 1 && <Admin />}
-            {user && user.role === 2 && <Hr />}
-            { user && user.role === 3 && <Staff />}
-        </div>
-    );
-}
+  useEffect(() => {
+    loadUser();
+  }, [loadUser]);
+  return (
+    <div>
+      <Header />
+      <HootSuite />
+      <Footer />
+    </div>
+  );
+};
 
 Home.propTypes = {
-    auth: PropTypes.object.isRequired,
-    loadUser: PropTypes.func.isRequired,
-}
+  auth: PropTypes.object.isRequired,
+  loadUser: PropTypes.func.isRequired,
+};
 
-const mapStateToProps = state => ({
-    auth: state.auth,
-})
+const mapStateToProps = (state) => ({
+  auth: state.auth,
+});
 
-export default connect(mapStateToProps, { loadUser })(withRouter(Home))
-
-
+export default connect(mapStateToProps, { loadUser })(withRouter(Home));

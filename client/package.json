@@ -11,6 +11,7 @@
     "axios": "^0.21.1",
     "jquery": "^3.6.0",
     "material-table": "^1.69.2",
+    "moment": "^2.29.1",
     "qrcode": "^1.4.4",
     "react": "^17.0.1",
     "react-datetime": "^3.0.4",
@@ -25,7 +26,14 @@
     "redux-thunk": "^2.3.0",
     "text-to-image": "^2.4.4",
     "uuid": "^8.3.2",
-    "web-vitals": "^1.1.0"
+    "web-vitals": "^1.1.0",
+    "bootstrap": "^5.1.0",
+    "bootstrap-icons": "^1.5.0",
+    "cra-template": "1.1.2",
+    "hooks": "^0.3.2",
+    "react-responsive-carousel": "^3.2.21",
+    "reactstrap": "^8.9.0",
+    "styled-components": "^5.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
